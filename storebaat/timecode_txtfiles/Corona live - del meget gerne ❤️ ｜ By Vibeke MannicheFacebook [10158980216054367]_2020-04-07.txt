@@ -1,0 +1,508 @@
+1
+00:00:00,920 --> 00:00:02,920
+ Så er krutteuglen tilbage.
+
+2
+00:00:02,920 --> 00:00:05,920
+ Det er tid til en live video.
+
+3
+00:00:05,920 --> 00:00:07,920
+ Jeg hedder Vibke Mannike, jeg er læge.
+
+4
+00:00:07,920 --> 00:00:09,920
+ Jeg har en socialmedicinsk Ph.D.
+
+5
+00:00:09,920 --> 00:00:14,920
+ Og så har jeg beskæftet mig med, hvad fejler befolkningen i stor set min lægelig karriere.
+
+6
+00:00:14,920 --> 00:00:17,920
+ Jeg har også beskæftet mig med smitsomme sygdomme.
+
+7
+00:00:17,920 --> 00:00:21,920
+ Og ikke mindst rådgivning, vejledning osv. i forhold til vores dagpasning.
+
+8
+00:00:21,920 --> 00:00:25,920
+ Og kort sagt, det her er et område, som jeg kender rigtig meget til.
+
+9
+00:00:25,920 --> 00:00:28,920
+ Nemlig sygdomme, herunder også smitsomme sygdomme.
+
+10
+00:00:28,920 --> 00:00:34,920
+ Som du ved, hvis du har fulgt mig og fulgt mine blogs på min hjemmeside www.vibkemannike.dk
+
+11
+00:00:34,920 --> 00:00:40,920
+ Jamen, så har jeg hele tiden sagt, at tallene var rigtig fine og beroligende.
+
+12
+00:00:40,920 --> 00:00:44,920
+ Vi har ikke på noget tidspunkt, hvad angår corona, haft tegn på,
+
+13
+00:00:44,920 --> 00:00:48,920
+ at vi skulle være på vej ind i den her bravne epidemi,
+
+14
+00:00:48,920 --> 00:00:51,920
+ som regeringen jo har frygtet, og som jo har gjort, at man har lukket ned.
+
+15
+00:00:51,920 --> 00:00:57,920
+ Fordi man frygtede det her scenarie med, at bl.a. intensivpladserne
+
+16
+00:00:57,920 --> 00:01:01,920
+ vil gå fuldstændig amok, og der ikke vil være tilstrækkeligt med plads.
+
+17
+00:01:01,920 --> 00:01:05,920
+ Når vi har kigget på tallene, og dem har jeg jo fulgt som alle andre dagligt,
+
+18
+00:01:05,920 --> 00:01:09,920
+ jamen så er det jo væsentligt både at se, hvor mange smittede der er,
+
+19
+00:01:09,920 --> 00:01:12,920
+ men selvfølgelig også i forhold til, hvor mange der er testet.
+
+20
+00:01:12,920 --> 00:01:16,920
+ Og uagtet, at man har ændret testmetoder undervejs,
+
+21
+00:01:16,920 --> 00:01:19,920
+ jamen så kan man i hvert fald sige, at her den sidste lille uge er det,
+
+22
+00:01:19,920 --> 00:01:22,920
+ jamen der har man testet på cirka den samme præmis.
+
+23
+00:01:22,920 --> 00:01:28,920
+ Det vil sige, at når vi sætter antallet af testet i forhold til, hvor mange der er smittet,
+
+24
+00:01:28,920 --> 00:01:34,920
+ jamen så er den procentuelle del jo selvfølgelig meget afgørende for,
+
+25
+00:01:34,920 --> 00:01:38,920
+ om vi enten er på vej ind i en bravende epidemi, eller om det ser fredeligt ud.
+
+26
+00:01:38,920 --> 00:01:42,920
+ Og de tal viser stadigvæk, at det ser rigtig fredeligt ud.
+
+27
+00:01:42,920 --> 00:01:46,920
+ Der er ingen tegn på, at vi er på vej ind i en bravende epidemi.
+
+28
+00:01:46,920 --> 00:01:50,920
+ Samtidig kan vi se, at antallet, der dør dagligt, er faldende,
+
+29
+00:01:50,920 --> 00:01:53,920
+ og vi kan se, at antallet af indlagte også er faldende.
+
+30
+00:01:53,920 --> 00:01:55,920
+ Kort sagt, alt ser fredeligt ud.
+
+31
+00:01:55,920 --> 00:01:58,920
+ Det har jo ikke ens betydning med, at man ikke skal gøre noget, det siger jeg bestemt ikke,
+
+32
+00:01:58,920 --> 00:02:00,920
+ og det har jeg ikke på noget tidspunkt sagt.
+
+33
+00:02:00,920 --> 00:02:04,920
+ Jeg har også hele tiden sagt, at selvfølgelig skal vi følge de officielle anbefalinger,
+
+34
+00:02:04,920 --> 00:02:06,920
+ det siger sig selv.
+
+35
+00:02:06,920 --> 00:02:11,920
+ Men når det så er sagt, så må jeg sige, at på samme måde, som Mette Frederiksen jo indrømmede,
+
+36
+00:02:11,920 --> 00:02:18,920
+ at der ikke var nogen evidens, altså videnskabelig dokumentation for, da man lukkede landet,
+
+37
+00:02:18,920 --> 00:02:21,920
+ så må jeg altså bare sige, at det er der fortsat.
+
+38
+00:02:21,920 --> 00:02:24,920
+ Ikke, at man bevarer landet lukket.
+
+39
+00:02:24,920 --> 00:02:29,920
+ Og jeg bemærkede, da jeg hørte Mette Frederiksen, at hun faktisk heller ikke kom med nogen data
+
+40
+00:02:29,920 --> 00:02:34,920
+ eller nogen valide oplysninger, som gjorde, at man tænkte, at det er velfunderet.
+
+41
+00:02:34,920 --> 00:02:38,920
+ Det ved jeg så heller ikke er, fordi man kan sige, at de samme tal har jeg jo fulgt,
+
+42
+00:02:38,920 --> 00:02:41,920
+ og har andre fulgt meget, meget nøje.
+
+43
+00:02:41,920 --> 00:02:49,920
+ Samtidig ved vi jo, at virer har, ligesom covid-19 også må forventes at have, sæsonvariation.
+
+44
+00:02:49,920 --> 00:02:54,920
+ Og som jeg hele tiden har sagt, i forhold til den årstid, vi er inde i, i forhold til forårets komme,
+
+45
+00:02:54,920 --> 00:03:01,920
+ så ville det faktisk være utænkeligt, hvis vi nu skulle gå ind i en bravende coronaepidemi.
+
+46
+00:03:01,920 --> 00:03:08,920
+ Det så også blev bekræftet af talene, og det blev bekræftet af al den, skal vi sige, viden, vi har.
+
+47
+00:03:08,920 --> 00:03:16,920
+ Så hvorfor er Mette Frederiksen vælger og landet fortsat delvist lukket, det er mig ganske enkelt engode.
+
+48
+00:03:16,920 --> 00:03:22,920
+ Det der glæder mig er, at partier, inklusiv åbenbart også støttepartier,
+
+49
+00:03:22,920 --> 00:03:27,920
+ begynder at bede om den her dokumentation. Hvad er det egentlig, der forelægger?
+
+50
+00:03:27,920 --> 00:03:30,920
+ Og mit bedste skynd er, meget, meget let.
+
+51
+00:03:30,920 --> 00:03:34,920
+ Det er jeg også hele tiden har efterlyst, og det håber jeg også, kan jeg se,
+
+52
+00:03:34,920 --> 00:03:37,920
+ at der begynder at komme ind over, det er proportioner.
+
+53
+00:03:37,920 --> 00:03:42,920
+ I samme tid, hvor der nu er, jeg tror, det var 204, der var døde, lige deromkring,
+
+54
+00:03:42,920 --> 00:03:47,920
+ ikke af corona, men med corona, det er meget væsentligt, fordi hvad det egentlig døde af,
+
+55
+00:03:47,920 --> 00:03:52,920
+ meget tyder jo på, ud fra de data, vi har fået, at de selvfølgelig havde en grundsygdom,
+
+56
+00:03:52,920 --> 00:03:54,920
+ og nogle af dem jo også en ganske høj alder.
+
+57
+00:03:54,920 --> 00:03:59,920
+ Men i samme tidspunkt, der er der altså død, og hold nu fast, 6.000 mennesker.
+
+58
+00:03:59,920 --> 00:04:06,920
+ Så 6.000 mennesker er døde herhjemme i samme periode, hvor der altså er død lidt over 200 mennesker.
+
+59
+00:04:06,920 --> 00:04:08,920
+ Det er proportioner, jeg efterlyser.
+
+60
+00:04:08,920 --> 00:04:15,920
+ Går vi ind og ser på, nu så jeg, at der var, hvad hedder det, aflyst 11.000 operationer.
+
+61
+00:04:15,920 --> 00:04:17,920
+ 11.000 operationer.
+
+62
+00:04:17,920 --> 00:04:19,920
+ De mennesker fortjener jo også en forsøg.
+
+63
+00:04:19,920 --> 00:04:23,920
+ De mennesker fortjener jo også, at fællesskabet er der for dem.
+
+64
+00:04:23,920 --> 00:04:27,920
+ Så det, jeg hele tiden har efterlyst, det er proportioner i det her.
+
+65
+00:04:27,920 --> 00:04:33,920
+ Man kunne jo med rette sige, okay, man lukkede landet på et forkert grundlag,
+
+66
+00:04:33,920 --> 00:04:37,920
+ men man lukkede det dog. Der fik vi jo at se, at nu bum kan lukke landet,
+
+67
+00:04:37,920 --> 00:04:42,920
+ og bum kan sikre, at man kan sige, at ressourcer bliver tildelt.
+
+68
+00:04:42,920 --> 00:04:47,920
+ For eksempel, hvis man skulle komme ind i det her scenario, som regeringen har frygtet.
+
+69
+00:04:47,920 --> 00:04:50,920
+ Jamen med det argument kunne man jo sagtens åbne op.
+
+70
+00:04:50,920 --> 00:04:55,920
+ Der er intet nu, der tyder på, at der står en bravende coronaepidemi og banker på.
+
+71
+00:04:55,920 --> 00:04:59,920
+ Det har der faktisk ikke været hele forløbet noget tegn på, men lad det være.
+
+72
+00:04:59,920 --> 00:05:04,920
+ Og så ved man jo så, at så kunne man jo, hvis det endelig var, at det skulle komme dertil,
+
+73
+00:05:04,920 --> 00:05:06,920
+ vut, lukke hurtigt ned igen.
+
+74
+00:05:06,920 --> 00:05:12,920
+ Jeg synes, det her har nogle helt urimelige, voldsomme konsekvenser for samfundet.
+
+75
+00:05:12,920 --> 00:05:17,920
+ Det har voldsomme konsekvenser for alvorlige syge, der ikke får den udredning, behandling,
+
+76
+00:05:17,920 --> 00:05:19,920
+ genoptræning, de plejer at have brug for.
+
+77
+00:05:19,920 --> 00:05:22,920
+ Det har alvorlige konsekvenser for kulturlivet.
+
+78
+00:05:22,920 --> 00:05:30,920
+ Vi ser jo nu, hvordan koncerter, festivaler, revyer, alt muligt, bliver, hvad hedder det, aflyst.
+
+79
+00:05:30,920 --> 00:05:32,920
+ Bang, sådan her.
+
+80
+00:05:32,920 --> 00:05:38,920
+ Uden, at vi har nogen som helst sundhedsfaglig årsag til det.
+
+81
+00:05:38,920 --> 00:05:41,920
+ Nogen som helst evidens for det.
+
+82
+00:05:41,920 --> 00:05:47,920
+ Jo, man tror og mærker efter og gætter, men det er jo ikke en gættekonkurrence, vi er i gang med.
+
+83
+00:05:47,920 --> 00:05:51,920
+ Vi er jo nødt til, når det er så alvorlig indgreb på det danske samfund,
+
+84
+00:05:51,920 --> 00:05:56,920
+ også i forhold til landets økonomi, så er man selvfølgelig nødt til at stille krav om,
+
+85
+00:05:56,920 --> 00:06:02,920
+ at vi har dog minimum af dokumentation for så omfattende indgreb, som det er.
+
+86
+00:06:02,920 --> 00:06:04,920
+ Og ved du hvad, det har vi altså ikke.
+
+87
+00:06:04,920 --> 00:06:08,920
+ Fordi tallene er, og igen, det er ikke nogen tal, jeg selv opfinder,
+
+88
+00:06:08,920 --> 00:06:13,920
+ det er sådan set bare Serum Instituttets tal, jeg følger, som alle andre følger.
+
+89
+00:06:13,920 --> 00:06:16,920
+ Og de ser altså meget fredelige ud.
+
+90
+00:06:16,920 --> 00:06:22,920
+ Og derfra er vi tilbage til, jamen, du er nødt til at begynde at tænke selv.
+
+91
+00:06:22,920 --> 00:06:25,920
+ Du er nødt til at stille et krav til dine politikere om,
+
+92
+00:06:25,920 --> 00:06:32,920
+ at når man træffer så alvorlige beslutninger, så er det på et velfundet grundlag.
+
+93
+00:06:32,920 --> 00:06:35,920
+ Du er også nødt til at stille krav om, at der er proportioner.
+
+94
+00:06:35,920 --> 00:06:41,920
+ Og jeg er ikke i tvivl om, at corona er noget rigtig skidt, og det er også noget rigtig skidt at få.
+
+95
+00:06:41,920 --> 00:06:46,920
+ Det betyder jeg ikke, på samme måde som en svær influencer også kan være rigtig, rigtig skidt.
+
+96
+00:06:46,920 --> 00:06:49,920
+ I 2017-2018, hvor vi havde en meget stor influencerepidemi,
+
+97
+00:06:49,920 --> 00:06:55,920
+ der døde, hold nu fast, 2822 af eller med influencer.
+
+98
+00:06:55,920 --> 00:06:57,920
+ Bare lige igen for at få proportioner ind i det.
+
+99
+00:06:57,920 --> 00:07:04,920
+ Så det jeg efterlyser og har efterlyst hele tiden, det er proportioner, proportioner og proportioner.
+
+100
+00:07:04,920 --> 00:07:09,920
+ Altså at, som man siger, at kurven står i forhold til, hvad man skal opnå.
+
+101
+00:07:09,920 --> 00:07:11,920
+ Og det gør den ikke på nuværende tidspunkt.
+
+102
+00:07:11,920 --> 00:07:17,920
+ Det glæder mig, at man begynder at stille spørgsmål fra andre politikeres side.
+
+103
+00:07:17,920 --> 00:07:22,920
+ Det glæder mig, at man begynder at efterlyse den her sundhedsfaglige dokumentation.
+
+104
+00:07:22,920 --> 00:07:24,920
+ Og trust me, den er der ikke.
+
+105
+00:07:24,920 --> 00:07:29,920
+ Det her med, at man siger, at man bruger matematiske modeller, ja ja, hurra for det.
+
+106
+00:07:29,920 --> 00:07:33,920
+ Men matematiske modeller, de bygger jo på de variable, man sætter ind.
+
+107
+00:07:33,920 --> 00:07:37,920
+ Altså, hvad er det for nogle tal? Det er meget spørgsmål om talmaterialet, vi har.
+
+108
+00:07:37,920 --> 00:07:44,920
+ Nu får vi mere og mere talmateriale. Det giver os egentlig kun anledning til at være endnu mere beroligede.
+
+109
+00:07:44,920 --> 00:07:48,920
+ Men derudover er det jo også de variable, man sætter ind eller ikke sætter ind.
+
+110
+00:07:48,920 --> 00:07:53,920
+ Jeg har jo hele tiden sagt, og det siger jeg igen og igen og igen, at foråret er vores ven.
+
+111
+00:07:53,920 --> 00:08:01,920
+ Fordi at det øjeblik, vi går udenfor, det øjeblik foråret er der, så smitter vi markant mindre hinanden.
+
+112
+00:08:01,920 --> 00:08:05,920
+ Så med det må jeg sige, hey, tænk nu selv derude.
+
+113
+00:08:05,920 --> 00:08:11,920
+ Vågn op. Stil krav til dine politikere, fordi vi bor stadigvæk i et demokrati.
+
+114
+00:08:11,920 --> 00:08:15,920
+ Jeg har lov til at mene, hvad jeg vil. Du har lov til at mene, hvad du vil.
+
+115
+00:08:15,920 --> 00:08:21,920
+ Selvfølgelig skal vi følge regler og rammer, og det har jeg heller ikke på noget tidspunkt sagt, vi ikke skal.
+
+116
+00:08:21,920 --> 00:08:28,920
+ Men vi har lov til at tænke selv, og vi har lov til at kræve, at så voldsomme indgreb bliver veldokumenteret,
+
+117
+00:08:28,920 --> 00:08:31,920
+ og at man lægger den dokumentation frem.
+
+118
+00:08:31,920 --> 00:08:39,920
+ Og som det ser ud nu, og med de tal, der er, så er der intet sundhedsfagligt belæg for fortsat at holde landet åbent.
+
+119
+00:08:39,920 --> 00:08:45,920
+ Det er i hvert fald min vurdering, og jeg kan fremlægge de tal, fordi det er Serum Instituttets tal, jeg bruger og kigger på,
+
+120
+00:08:45,920 --> 00:08:51,920
+ og rigtig mange læger og kollegaer er heldigvis enige med mig, så det er ikke noget, jeg er alene om at mene.
+
+121
+00:08:51,920 --> 00:08:53,920
+ Men som jeg siger, tænk selv.
+
+122
+00:08:53,920 --> 00:08:57,920
+ Og så vil jeg lige høre, om der er nogen af jer, der har et lille spørgsmål derude.
+
+123
+00:08:57,920 --> 00:09:06,920
+ Og hvis ikke I har her, så er I meget velkomne til at skrive senere, og jeg ved, at rigtig mange af jer jo skriver til mig, både privat og på min blog og så videre.
+
+124
+00:09:06,920 --> 00:09:14,920
+ Følg ældre med inde på min blog, for der forsøger jeg hele tiden at holde os opdateret, så I netop får al den viden, vi har.
+
+125
+00:09:14,920 --> 00:09:16,920
+ Fordi det er jo vigtigt i det her transparens.
+
+126
+00:09:16,920 --> 00:09:22,920
+ Det er vigtigt, at vi kan se, hvad er det for nogle tal, hvad er det for nogle beslutninger, og hvad bygger de på.
+
+127
+00:09:22,920 --> 00:09:26,920
+ Kan du have det godt derude. Vi ses. Hej hej.
+
