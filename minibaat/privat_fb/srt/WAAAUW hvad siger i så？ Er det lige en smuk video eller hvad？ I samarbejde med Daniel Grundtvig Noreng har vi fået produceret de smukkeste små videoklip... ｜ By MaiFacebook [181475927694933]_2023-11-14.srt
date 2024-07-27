@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:02,000
+ Tak for at du så med!
+
+2
+00:00:02,000 --> 00:00:04,000
+ Tak for at du så med!
+
+3
+00:00:04,000 --> 00:00:06,000
+ Danske tekster: Jesper Buhl Scandinavian Text Service 2018
+
+4
+00:00:06,000 --> 00:00:10,380
+ [Tekster af Nicolai Winther]
+
