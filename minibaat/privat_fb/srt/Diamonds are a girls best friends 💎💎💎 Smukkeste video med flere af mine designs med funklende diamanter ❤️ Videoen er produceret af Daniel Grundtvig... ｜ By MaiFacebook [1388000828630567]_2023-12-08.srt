@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:02,000
+ Tak for at du så med!
+
+2
+00:00:02,000 --> 00:00:06,000
+ Danske tekster: Jesper Buhl Scandinavian Text Service 2018
+
