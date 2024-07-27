@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:03,960
+ For at løbe.
+
+2
+00:00:03,960 --> 00:00:10,080
+ Det er en god tid til at finde dig selv.
+
+3
+00:00:10,080 --> 00:00:14,240
+ For at tjene.
+
+4
+00:00:14,240 --> 00:00:19,600
+ Det er en god tid til at finde dig selv.
+
+5
+00:00:20,520 --> 00:00:24,400
+ Hvad siger du, min mor? Hvad siger du?
+
+6
+00:00:24,400 --> 00:00:35,120
+ Fortæl mig noget, min lille.
+
+7
+00:00:35,120 --> 00:00:40,240
+ Er det ikke en god tid for at føle dig, min lille?
+
+8
+00:00:40,240 --> 00:00:45,200
+ Så er det jo en god tid.
+
+9
+00:00:45,400 --> 00:00:49,800
+ Det er ikke en god tid, og det er så vildt.
+
+10
+00:00:49,800 --> 00:00:54,920
+ Jeg er faldet.
+

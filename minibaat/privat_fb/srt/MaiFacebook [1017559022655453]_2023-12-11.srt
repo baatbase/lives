@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:02,600
+ - Hvorfor har man det ikke lige? - Jeg har det jo.
+
+2
+00:00:02,600 --> 00:00:05,520
+ - Hvor er du? - Jeg er i Danmark.
+
+3
+00:00:05,520 --> 00:00:07,520
+ - Hvor er du? - Jeg er i Danmark.
+
+4
+00:00:07,520 --> 00:00:09,520
+ - Hvor er du? - Jeg er i Danmark.
+
+5
+00:00:09,520 --> 00:00:11,520
+ - Hvor er du? - Jeg er i Danmark.
+
+6
+00:00:11,520 --> 00:00:13,520
+ - Hvor er du? - Jeg er i Danmark.
+

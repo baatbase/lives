@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:03,000
+ Vi får klager på der, hvor er det fedt!
+
+2
+00:00:03,000 --> 00:00:07,000
+ Ej, det er da fantastisk!
+
+3
+00:00:07,000 --> 00:00:09,000
+ Ej, hvor er det fedt, mand!
+
+4
+00:00:09,000 --> 00:00:12,000
+ Ej, det er da helt vildt!
+
+5
+00:00:12,000 --> 00:00:15,000
+ Det er det, jeg har sagt!
+
+6
+00:00:15,000 --> 00:00:19,000
+ Årh, hvor er det fedt!
+
+7
+00:00:19,000 --> 00:00:21,000
+ Ej, det er sgu da vildt!
+
+8
+00:00:21,000 --> 00:00:24,000
+ Og du svømmer!
+
+9
+00:00:24,000 --> 00:00:27,000
+ Det er sgu da fedt!
+
