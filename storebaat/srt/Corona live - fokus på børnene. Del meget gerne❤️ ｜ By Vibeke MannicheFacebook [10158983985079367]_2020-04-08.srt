@@ -1,0 +1,188 @@
+1
+00:00:00,000 --> 00:00:08,000
+ Hej, så er jeg tilbage. Så er vi kommet udenfor, fordi som jeg jo hele tiden siger, så er foråret vores ven.
+
+2
+00:00:08,000 --> 00:00:14,000
+ Det er her, hvor smitterisikoen er mindst. Det er der, hvor vi får D-vitamin. Det er der, hvor vi bevæger os.
+
+3
+00:00:14,000 --> 00:00:16,000
+ Det er der, hvor vi holder stor afstand til hinanden.
+
+4
+00:00:16,000 --> 00:00:21,000
+ Jeg hedder Wibke Maniker. Jeg er læge, og du har måske set nogle af mine tidligere videoer.
+
+5
+00:00:21,000 --> 00:00:27,000
+ Jeg kan glæde dig med, at dagens coronatal viser, at den fortsat er procentuelt faldende.
+
+6
+00:00:27,000 --> 00:00:30,000
+ Faktisk har den ikke været så lav før procentuelt.
+
+7
+00:00:30,000 --> 00:00:37,000
+ Det vil altså sige, at hvis vi ser på den gruppe, der er testet, og den gruppe, der er smittet, så er den forholdsvis faldende.
+
+8
+00:00:37,000 --> 00:00:43,000
+ Det ændrer ikke ved, at der stadigvæk er mennesker, selvfølgelig, der smittes med corona, for vi har et coronaudbrud.
+
+9
+00:00:43,000 --> 00:00:49,000
+ Men der er intet, der tyder på fortsat, at vi er på vej ind i den her bravende coronaepidemi.
+
+10
+00:00:49,000 --> 00:00:53,000
+ Og det er vi heldigvis blevet nogenlunde enige om de fleste af os.
+
+11
+00:00:53,000 --> 00:00:59,000
+ I næste uge åbner dagpasningerne op, og der åbner skolerne op.
+
+12
+00:00:59,000 --> 00:01:04,000
+ Og nogen er veldig bekymrede, og det må man jo sige, det er der jo egentlig ikke rigtig nogen grund til.
+
+13
+00:01:04,000 --> 00:01:12,000
+ Fordi, igen, forret af vores ven, det er vigtigt, at børnene kommer så meget som muligt udenfor, fordi der minsker smitterisikoen.
+
+14
+00:01:12,000 --> 00:01:19,000
+ Vi ved, at børn generelt er af covid-19 meget lidt syge, hvis syge overhovedet, altså asymptomatiske.
+
+15
+00:01:19,000 --> 00:01:23,000
+ Og dermed er der også noget, der tyder på, at de heller ikke smitter helt på samme måde.
+
+16
+00:01:23,000 --> 00:01:29,000
+ Men uanset hvad, så i forvejen har man jo tradition for ude i dagpasningerne.
+
+17
+00:01:29,000 --> 00:01:35,000
+ Og det ved jeg jo, fordi rigtig mange af jer derude har jeg jo rådgivet og hjulpet og undervist i mange år og gør det stadigvæk.
+
+18
+00:01:35,000 --> 00:01:39,000
+ Nemlig at I er rigtig dygtige derude til at holde en rigtig god hygiejne.
+
+19
+00:01:39,000 --> 00:01:45,000
+ Så det her handler om at følge selvfølgelig Sundhedsstyrelsens retningslinjer, følge reglerne omkring god hygiejne,
+
+20
+00:01:45,000 --> 00:01:52,000
+ steppe op på den, som man siger, og så selvfølgelig sørge for, at børnene kommer mest muligt ud i det skønne forår.
+
+21
+00:01:52,000 --> 00:01:57,000
+ Fordi så ved vi, at så nedsættes smitterisikoen ganske markant.
+
+22
+00:01:57,000 --> 00:02:05,000
+ Når det så er sagt, så er vi jo lidt tilbage til, at der fortsat ikke er noget sundhedsfagligt belæg for at holde landet lukket.
+
+23
+00:02:05,000 --> 00:02:09,000
+ De her probationer, vi hele tiden har efterløst, dem efterløser jeg stadigvæk.
+
+24
+00:02:09,000 --> 00:02:15,000
+ Nemlig, at man begynder at tage hånd om alle de alvorlige syge, der er derude, som ikke får den behandling,
+
+25
+00:02:15,000 --> 00:02:19,000
+ som ikke får den udredning, som ikke får den genoptræning, de har brug for.
+
+26
+00:02:19,000 --> 00:02:25,000
+ Alle de virksomheder, som er ved at gå konkurs, alle de børn, som ikke fortsat kan komme i skole osv.
+
+27
+00:02:25,000 --> 00:02:30,000
+ Så for mig at se, er det tid til, og derfor er jeg glad for, at ikke mindst oppositionen vågner op,
+
+28
+00:02:30,000 --> 00:02:37,000
+ det er tid til at stoppe op og sige, hvad har vi egentlig i hat og muggen af sundhedsfaglig dokumentation
+
+29
+00:02:37,000 --> 00:02:39,000
+ for, at landet skal holdes lukket.
+
+30
+00:02:39,000 --> 00:02:45,000
+ Og der må jeg bare stadigvæk sige, at også efter at have set den famøse matematiske model fra Serum Instituttet,
+
+31
+00:02:45,000 --> 00:02:48,000
+ så er det et meget, meget lille grundlag, der er.
+
+32
+00:02:48,000 --> 00:02:54,000
+ Den matematiske model, som man har lagt op, den er jo meget afhængig af de variable, man lægger ind.
+
+33
+00:02:54,000 --> 00:02:59,000
+ Altså, hvad er det for nogle forhold, man lægger ind for at kunne regne ud på det.
+
+34
+00:02:59,000 --> 00:03:03,000
+ Og noget, som jeg har bemærket igen, det er for det første en masse gæt,
+
+35
+00:03:03,000 --> 00:03:08,000
+ og for det andet igen, som jeg har sagt vel hundrede gange forret af vores ven,
+
+36
+00:03:08,000 --> 00:03:12,000
+ jamen den parameter er rigtig, rigtig vigtig, når vi har med smit som sygdom at gøre,
+
+37
+00:03:12,000 --> 00:03:16,000
+ som COVID-19, den er slet ikke lagt ind i rejslivet.
+
+38
+00:03:16,000 --> 00:03:23,000
+ Så tilbage til dig, der sidder og tænker, oha, hvordan skal det gå, og er børnene nu en test, et eksperiment,
+
+39
+00:03:23,000 --> 00:03:27,000
+ så må jeg sige, nedlukningen af landet, det er et eksperiment.
+
+40
+00:03:27,000 --> 00:03:30,000
+ Fortsat nedlukning af landet, det er et eksperiment.
+
+41
+00:03:30,000 --> 00:03:36,000
+ Men at børnene kommer tilbage i dagpasningerne på den her årstid, og hvor de kan komme udenfor,
+
+42
+00:03:36,000 --> 00:03:40,000
+ og hvor de for guds skyld skal have deres middagslur for at samle kræfter osv.,
+
+43
+00:03:40,000 --> 00:03:42,000
+ jamen det er ikke noget eksperiment.
+
+44
+00:03:42,000 --> 00:03:46,000
+ Det er der intet tilhænder for, ud fra den viden, vi har nu.
+
+45
+00:03:46,000 --> 00:03:52,000
+ Så egentlig vil jeg bare sige, glad jeg til, at livet starter ned, hvor de bliver passet og har det godt,
+
+46
+00:03:52,000 --> 00:03:57,000
+ og bliver pædagogisk stimuleret, og har en god, dejlig og sund hverdag.
+
+47
+00:03:57,000 --> 00:04:01,000
+ Så, ha' det godt derude. Vi ses.
+

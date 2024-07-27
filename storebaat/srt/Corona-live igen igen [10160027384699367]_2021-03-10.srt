@@ -1,0 +1,1256 @@
+1
+00:00:00,000 --> 00:00:08,200
+ Jeg hedder Vibeke Mannike, jeg er læge, jeg har en Ph.D., og så har jeg fulgt det her corona-helvede i et år.
+
+2
+00:00:08,200 --> 00:00:10,200
+ Jeg siger velkommen til alle sammen.
+
+3
+00:00:10,200 --> 00:00:14,200
+ I dag gør jeg også det, at jeg meget gerne svarer på spørgsmål.
+
+4
+00:00:14,200 --> 00:00:24,200
+ Nogle af jer har allerede sendt mig spørgsmål, men også hvis I har nogen, så skriv endelig nede i kommentarfeltet, og så skal jeg gøre mig umage for at besvare dem.
+
+5
+00:00:24,200 --> 00:00:31,200
+ Jeg skal sådan lige følge med, at hele teknikken fungerer. Jeg skal lige se, der er det og der, yes, yes.
+
+6
+00:00:31,200 --> 00:00:35,200
+ Jeg håber, at den går igennem nu, det skulle den i hvert fald meget gerne.
+
+7
+00:00:35,200 --> 00:00:38,200
+ Lad os starte med de rigtig gode nyheder.
+
+8
+00:00:38,200 --> 00:00:43,200
+ Nemlig, at dagens positiv procent er på 0,17 procent.
+
+9
+00:00:43,200 --> 00:00:48,200
+ All time low, kan man sige, og som jeg siger, it is over.
+
+10
+00:00:48,200 --> 00:00:55,200
+ I går var det 0,30 procent, og den har ligget deromkring.
+
+11
+00:00:55,200 --> 00:01:04,200
+ Så har man gjort det det sidste døgn, at der har man så overført omkring 1 million test, så der er over 1 million test det sidste døgn.
+
+12
+00:01:04,200 --> 00:01:09,200
+ Fordi man nu også inddrager test fra private aktører, antigentest osv.
+
+13
+00:01:09,200 --> 00:01:17,200
+ Det er jo meget interessant, at det øjeblik, man kommer så stor en pulje af testene ind, så falder positiv procenten så markant.
+
+14
+00:01:17,200 --> 00:01:26,200
+ Kort sagt, har vi i virkeligheden været ført bag lyset, når vi sådan har siddet og kigget på de her positive procenter, der egentlig kunstigt har været for høje.
+
+15
+00:01:26,200 --> 00:01:38,200
+ Det kan da være ført bag lyset bevidst eller ej, men vi kan jo vente om at sige, hvorfor har de test ikke for længst været en del af det daglige testgrundlag, og den daglige offentliggørelse af tallene.
+
+16
+00:01:38,200 --> 00:01:48,200
+ Når vi kigger på positiv procenten, som er det eneste, der er værd at følge, og som jeg i øvrigt sagde fra starten, altså for et år siden, at det var det, vi skulle kigge på, så kigger man på antall.
+
+17
+00:01:48,200 --> 00:01:54,200
+ Positivtestet, det er ikke ens betydning af, at de er syge, det er nok måske knap halvdelen, eller måske en, der er færre.
+
+18
+00:01:54,200 --> 00:02:01,200
+ Men man kigger på det positivtestede, og så kigger man på det i forhold til den pulje, man har undersøgt, og det er det, man kalder positivtesten.
+
+19
+00:02:01,200 --> 00:02:10,200
+ Absolutte tal giver ingen mening, vi er nødt til at kigge på den forholdsmæssige del af dem, der bliver testet, som er smittet.
+
+20
+00:02:10,200 --> 00:02:22,200
+ Og det er altså meget lavt tal de sidste døgn, og det er forventeligt, det er jo snart nærmest flere måneder siden, at jeg sagde, at vi har og vil opnå nu flokimmunitet, og det er også korrekt.
+
+21
+00:02:22,200 --> 00:02:39,200
+ Der kommer ingen tredje bølge, det er præcis to uger siden, at Magnus Heunicke, bistået af Serum-instituttet, var ude at sige, at UUH og en del eksperter var ude at sige, at UUH midten af april, eller måske endda i slutningen, 870 indlagte.
+
+22
+00:02:39,200 --> 00:02:47,200
+ Ham siger man engang, nu må I altså stoppe, nu må I stoppe med at tale ned til befolkningen, som om vi er en nation af dumpepper.
+
+23
+00:02:47,200 --> 00:02:54,200
+ Jeg sagde allerede der, at det kan ikke forekomme på det her tidspunkt, at vi får en tredje bølge.
+
+24
+00:02:54,200 --> 00:02:57,200
+ Og det er der, det siger jeg er rigtig mange grunde.
+
+25
+00:02:57,200 --> 00:03:02,200
+ Et, vi er så langt henne på foråret, så vi får ikke noget løbet i gang.
+
+26
+00:03:02,200 --> 00:03:07,200
+ Og som en af jer meget sødt sagde, kan du ikke bare vise videoen, som du sagde for et år siden, da du sagde det samme?
+
+27
+00:03:07,200 --> 00:03:09,200
+ Jo, det burde jeg gøre.
+
+28
+00:03:09,200 --> 00:03:16,200
+ Dengang var jeg lidt alene, om at mene det med forårsvariationen, eller sæsonvariationen.
+
+29
+00:03:16,200 --> 00:03:23,200
+ Nu har alle indset, at selvfølgelig har covid-19, ligesom andre tilsvarende virus, sæsonvariationer.
+
+30
+00:03:23,200 --> 00:03:25,200
+ Så et er altså foråret.
+
+31
+00:03:25,200 --> 00:03:31,200
+ Noget andet er virusbeskaffenhed, altså hvor sygdomsfremkaldende virus er.
+
+32
+00:03:31,200 --> 00:03:38,200
+ Det er nemlig sådan, at virus fuldstændig på klassisk vis, som også er tilfældet nu med covid-19, eller SARS-CoV-2, som den hedder,
+
+33
+00:03:38,200 --> 00:03:44,200
+ at dens virulens, eller hvad skal vi sige, dens kampdygtighed, hvis vi kan kalde det sådan, falder.
+
+34
+00:03:44,200 --> 00:03:51,200
+ I takt med, at den muterer, og vi har jo mange, mange, mange tusinde mutationer af den her virus,
+
+35
+00:03:51,200 --> 00:03:54,200
+ så bliver den faktisk generelt mere fredelig.
+
+36
+00:03:54,200 --> 00:03:57,200
+ Når vi ser på den engelske variant, som vi sådan også har været,
+
+37
+00:03:57,200 --> 00:04:01,200
+ hu-hu-hu, pas nu på, hu-hu-hu, hvad kommer til at ske?
+
+38
+00:04:01,200 --> 00:04:05,200
+ Så må man jo også sige, interessant nok, at på trods af, at den har været let stigende,
+
+39
+00:04:05,200 --> 00:04:07,200
+ nu er den så faldende, skal jeg så huske at sige,
+
+40
+00:04:07,200 --> 00:04:12,200
+ men på trods af, at den har været let stigende, så har positivprocenten fortsat været faldende.
+
+41
+00:04:12,200 --> 00:04:19,200
+ Kort sagt, det har for praktiske gøremål ingen betydning andet end what, what,
+
+42
+00:04:19,200 --> 00:04:25,200
+ og har dig og mig fanget i den her hjernenæve af vores diktator og statsminister, ikke mindst.
+
+43
+00:04:25,200 --> 00:04:29,200
+ Så der får vi tilbage til, så det er altså det vi har.
+
+44
+00:04:29,200 --> 00:04:35,200
+ Vi har sæsonen, vi har virusbeskaffenhed, og så kommer så den famøse flokimmunitet.
+
+45
+00:04:35,200 --> 00:04:40,200
+ Jeg har hele tiden sagt, at der skete noget lige omkring årskiftet,
+
+46
+00:04:40,200 --> 00:04:44,200
+ inden man faktisk begyndte at vaccinere, også begyndte vi at se en trend,
+
+47
+00:04:44,200 --> 00:04:49,200
+ men det er jo klart, at sammen med vaccinationerne, så har vi set og ser vi en meget stærk trend,
+
+48
+00:04:49,200 --> 00:04:55,200
+ hvor vi har altså meget, meget lav positiv procent, og selvfølgelig immuniteten i befolkningen stiger.
+
+49
+00:04:55,200 --> 00:04:59,200
+ Og når jeg taler om flokimmunitet, så er det jo rigtig mange ting,
+
+50
+00:04:59,200 --> 00:05:03,200
+ og jeg skal nok også huske i kommentarfeltet at lægge tegningen op,
+
+51
+00:05:03,200 --> 00:05:08,200
+ fordi nogen af jer misforstår det og siger, har vi ikke for få vaccineret endnu,
+
+52
+00:05:08,200 --> 00:05:11,200
+ eller har vi ikke for lille immunitet osv.?
+
+53
+00:05:11,200 --> 00:05:16,200
+ Det er jo rigtig mange ting, der gør, om man har opnået den her flokimmunitet i befolkningen.
+
+54
+00:05:16,200 --> 00:05:20,200
+ Det handler om et, dem af os, der har været naturligt smittet,
+
+55
+00:05:20,200 --> 00:05:24,200
+ og dem er vi jo en del af, der har været, og mange af os aner slet ikke, vi har været syge.
+
+56
+00:05:24,200 --> 00:05:29,200
+ Jeg personligt opdagede det kun, jeg havde et halvt døgn eller en halv nat med høj feber,
+
+57
+00:05:29,200 --> 00:05:32,200
+ og egentlig opdagede jeg det primært, fordi jeg mistede lugtesandsen i en periode.
+
+58
+00:05:32,200 --> 00:05:38,200
+ Andre, specielt børn og unge, har for praktisk gøremål ingen symptomer, eller meget, meget få.
+
+59
+00:05:38,200 --> 00:05:42,200
+ Så det vil sige, dem af os, der har været smittet, jamen vi har udviklet en immunitet,
+
+60
+00:05:42,200 --> 00:05:46,200
+ vi har ikke alene fået antistoffer, fordi det her med antistoffetest,
+
+61
+00:05:46,200 --> 00:05:50,200
+ der er nogen af jer, der spørger mig, jamen kan vi ikke bare antistoffeteste alle?
+
+62
+00:05:50,200 --> 00:05:56,200
+ Se, nu er det sådan med antistoffer, at dem kan vi teste i en periode, men så falder de faktisk.
+
+63
+00:05:56,200 --> 00:06:02,200
+ Men det er ikke ens betydende med, at vi ikke har en immunitet overfor i det her tilfælde COVID-19.
+
+64
+00:06:02,200 --> 00:06:06,200
+ Så jeg har altså haft antistoffer, jeg siger ikke, om jeg har det stadigvæk,
+
+65
+00:06:06,200 --> 00:06:08,200
+ men det aftager tiden.
+
+66
+00:06:08,200 --> 00:06:13,200
+ Men mit immunforsvar, mine T-celler, B-celler, hvad de hedder allesammen,
+
+67
+00:06:13,200 --> 00:06:18,200
+ de er parate til kamp, så når SARS-CoV-2 og dens mutationer kommer,
+
+68
+00:06:18,200 --> 00:06:23,200
+ så er mit immunforsvar da med det samme til at sige, dig skal jeg sgu ikke have inden for os.
+
+69
+00:06:23,200 --> 00:06:31,200
+ Så på den måde er immuniteten overfor bl.a. den her virus meget andet end alene antistoffer.
+
+70
+00:06:31,200 --> 00:06:34,200
+ Så har vi selvfølgelig også de vaccinerede,
+
+71
+00:06:34,200 --> 00:06:37,200
+ og det er jo klart, at i et eller andet omfang har de også udviklet en immunitet.
+
+72
+00:06:37,200 --> 00:06:40,200
+ Det er åbenlyst, og det ved vi også fra undersøgelserne.
+
+73
+00:06:40,200 --> 00:06:46,200
+ Og det, at man har vaccineret de 1. udsatte og ældre, og 2. plejepersonale,
+
+74
+00:06:46,200 --> 00:06:53,200
+ jamen det giver en helt anden gevinst, end alene, hvis man havde vaccineret tilfældigt.
+
+75
+00:06:53,200 --> 00:06:59,200
+ Fordi dels beskytter man jo så de udsatte, men i forhold til plejepersonale,
+
+76
+00:06:59,200 --> 00:07:04,200
+ så står plejepersonalet faktisk sådan for ca. en tredjedel af smitten.
+
+77
+00:07:04,200 --> 00:07:08,200
+ Simpelthen fordi vi jo primært smitter gennem de nære relationer.
+
+78
+00:07:08,200 --> 00:07:12,200
+ Gennem plejen, gennem kyssen, ikke fordi jeg siger plejepersonale kysser og krammer,
+
+79
+00:07:12,200 --> 00:07:15,200
+ men jeg siger bare gennem de nære relationer.
+
+80
+00:07:15,200 --> 00:07:19,200
+ Du og jeg, når vi mødes nede i f.eks. vores smykkebutik Djuvel CPH,
+
+81
+00:07:19,200 --> 00:07:23,200
+ så kan jeg garantere dig for en ting, hvis ikke vi lige giver hende en ordentlig trutter,
+
+82
+00:07:23,200 --> 00:07:26,200
+ og det gør jeg så ikke, jeg er jo godt gift, ved du godt,
+
+83
+00:07:26,200 --> 00:07:28,200
+ jamen så smitter vi ikke hinanden.
+
+84
+00:07:28,200 --> 00:07:32,200
+ Men i forhold til de nære relationer, hvis vi drikker det samme glas,
+
+85
+00:07:32,200 --> 00:07:34,200
+ spiser den samme mad og selvfølgelig i plejen.
+
+86
+00:07:34,200 --> 00:07:39,200
+ Så det betyder tilbage til, at dem der reelt er beskyttet fra vaccinationen,
+
+87
+00:07:39,200 --> 00:07:42,200
+ der kan du ikke i gårdsrunden kun se på antallet.
+
+88
+00:07:42,200 --> 00:07:45,200
+ Du er nødt til at se på, jamen hvad har det egentlig af betydning.
+
+89
+00:07:45,200 --> 00:07:49,200
+ Det har meget stor betydning, at det bl.a. er plejepersonale, der er vaccineret.
+
+90
+00:07:49,200 --> 00:07:54,200
+ Så har vi så, ud over det, og det er der også en af jer, der har spurgt til,
+
+91
+00:07:54,200 --> 00:07:56,200
+ det er MFH-vaccinationen.
+
+92
+00:07:56,200 --> 00:08:04,200
+ MFH-vaccinationen ved vi, efter alt at dømme, at børn og unge har det vi kalder erhvervet immunitet,
+
+93
+00:08:04,200 --> 00:08:09,200
+ altså at vi har vaccineret dem i det her tilfælde mod mæsninger, forsøger og røde hunde,
+
+94
+00:08:09,200 --> 00:08:14,200
+ men de får udviklet et immunforsvar, som faktisk beskytter dem i det her tilfælde,
+
+95
+00:08:14,200 --> 00:08:16,200
+ også mod f.eks. Covid-19.
+
+96
+00:08:16,200 --> 00:08:20,200
+ Og det er uden tvivl en væsentlig forklaring til, at børn og unge,
+
+97
+00:08:20,200 --> 00:08:25,200
+ og det har vi set over hele verden, stort set ikke får nogle symptomer.
+
+98
+00:08:25,200 --> 00:08:29,200
+ Der er sandsynligvis også andre forklaringer, men det er en væsentlig forklaring.
+
+99
+00:08:29,200 --> 00:08:35,200
+ Og så er der selvfølgelig vores levevis, vores levestandard, vores kost,
+
+100
+00:08:35,200 --> 00:08:41,200
+ søvn, søvn er tæt associeret med vores immunforsvar, D-vitamin, rigtig mange ting.
+
+101
+00:08:41,200 --> 00:08:45,200
+ Så det kort og lange er, it is over.
+
+102
+00:08:45,200 --> 00:08:49,200
+ Og når vi ser tallene nu, og når vi ser det, der sker, når du kommer reelt,
+
+103
+00:08:49,200 --> 00:08:54,200
+ mængden er testet ind, og det falder så markant, så har tallet jo nok,
+
+104
+00:08:54,200 --> 00:08:58,200
+ hvis vi skal være ærlige, været ret lavt, ret længe.
+
+105
+00:08:58,200 --> 00:08:59,200
+ Og hvor fører det os så hen?
+
+106
+00:08:59,200 --> 00:09:03,200
+ Jamen det fører os jo derhen, at der er jo intet belæg for,
+
+107
+00:09:03,200 --> 00:09:07,200
+ og har landet lukket mere overhovedet.
+
+108
+00:09:07,200 --> 00:09:12,200
+ Det her skam, det her pjat, den her hån mod, ikke mindst også vores børn,
+
+109
+00:09:12,200 --> 00:09:14,200
+ en dag om ugen i skolen.
+
+110
+00:09:14,200 --> 00:09:18,200
+ Jamen altså, pokker har de dog fået til at komme med sådan det.
+
+111
+00:09:18,200 --> 00:09:22,200
+ Jeg forestiller, at man sidder sådan på, jeg var lige ved at sige rød stue i børnehaven.
+
+112
+00:09:22,200 --> 00:09:24,200
+ Uh, hvad kan vi komme på at tanke?
+
+113
+00:09:24,200 --> 00:09:27,200
+ Ja altså, jeg tænker, min maverumlen, den fortæller mig,
+
+114
+00:09:27,200 --> 00:09:29,200
+ at skal vi ikke se en der mod?
+
+115
+00:09:29,200 --> 00:09:31,200
+ Jo da, god idé.
+
+116
+00:09:31,200 --> 00:09:33,200
+ Jamen for fanden da.
+
+117
+00:09:33,200 --> 00:09:37,200
+ Jeg troede, vi levede i et viden samfund.
+
+118
+00:09:37,200 --> 00:09:40,200
+ Og jeg bliver så fred, når man taler ned til mig.
+
+119
+00:09:40,200 --> 00:09:43,200
+ Du behøver ikke tale op til mig, du skal bare tale hen til mig.
+
+120
+00:09:43,200 --> 00:09:47,200
+ Og jeg bryder mig ikke om frygt, jeg bryder mig ikke om mavefornemmelser,
+
+121
+00:09:47,200 --> 00:09:48,200
+ maverumlen osv.
+
+122
+00:09:48,200 --> 00:09:49,200
+ Jeg vil have fakta.
+
+123
+00:09:49,200 --> 00:09:55,200
+ Og der er ingen som helst evidens for noget som helst i forhold til en dag om ugen.
+
+124
+00:09:55,200 --> 00:09:59,200
+ Det er noget frølt, men det er en måde at prøve stadigvæk at holde os fast
+
+125
+00:09:59,200 --> 00:10:04,200
+ i det der knyttende ugreb, som regeringen, og ikke mindst Mette Frederiksen,
+
+126
+00:10:04,200 --> 00:10:07,200
+ har gjort og har ønsket det sidste år.
+
+127
+00:10:07,200 --> 00:10:09,200
+ Og ved du hvad, det er ekstremt uhyggeligt.
+
+128
+00:10:09,200 --> 00:10:12,200
+ Så tilbage til MFR-vaccinen.
+
+129
+00:10:12,200 --> 00:10:18,200
+ Den har altså givet det her, hvad hedder det, erhverv og immunitet,
+
+130
+00:10:18,200 --> 00:10:24,200
+ det har BCG-vaccinen, Kalmette-vaccinen, også givet i et eller andet omfang.
+
+131
+00:10:24,200 --> 00:10:26,200
+ Det er den, hvor jeg tror en del af jer har det.
+
+132
+00:10:26,200 --> 00:10:30,200
+ Den sluttede i 86, vi blev gavt den herhjemme fra 46-86.
+
+133
+00:10:30,200 --> 00:10:33,200
+ Mange af jer vil have sådan et mærke herfra.
+
+134
+00:10:33,200 --> 00:10:35,200
+ Jeg har den herinde et sted, yes, derinde.
+
+135
+00:10:35,200 --> 00:10:38,200
+ Min mor, hun var så forudseende, så hun sagde,
+
+136
+00:10:38,200 --> 00:10:41,200
+ når du skal vaccineres, min skat, så husk at holde armen op,
+
+137
+00:10:41,200 --> 00:10:43,200
+ fordi du får et grimt ar, og det er også rigtigt.
+
+138
+00:10:43,200 --> 00:10:45,200
+ Så mit ar, det er derinde.
+
+139
+00:10:45,200 --> 00:10:49,200
+ Så hvis alt andet glipper, så har jeg nogle meget smukke overarme.
+
+140
+00:10:49,200 --> 00:10:52,200
+ Men tilbage til en sidste ting også,
+
+141
+00:10:52,200 --> 00:10:54,200
+ det vil sige, at jeg skal nok tage jeres spørgsmål,
+
+142
+00:10:54,200 --> 00:10:55,200
+ jeg skal se, om jeg kan se dem.
+
+143
+00:10:55,200 --> 00:10:57,200
+ Det burde jeg kunne.
+
+144
+00:10:57,200 --> 00:11:01,200
+ Vi har fået i dag middelivetallene,
+
+145
+00:11:01,200 --> 00:11:05,200
+ og det er også det sidste år.
+
+146
+00:11:05,200 --> 00:11:08,200
+ Selvfølgelig er det det, fordi vi har ikke haft nogen overdødelighed,
+
+147
+00:11:08,200 --> 00:11:10,200
+ så det havde jeg ikke behøvet at vende på,
+
+148
+00:11:10,200 --> 00:11:13,200
+ fordi vi har faktisk haft underdødelighed i 2020,
+
+149
+00:11:13,200 --> 00:11:16,200
+ og det var i hvert fald ikke noget, der kunne ændre på vores middelivetid.
+
+150
+00:11:16,200 --> 00:11:18,200
+ Så er man sådan lidt inde at sige,
+
+151
+00:11:18,200 --> 00:11:20,200
+ at i Sverige er deres middelivetid gået lidt ned.
+
+152
+00:11:20,200 --> 00:11:24,200
+ Det er også rigtigt, men den er stadigvæk omkring et år længere end vores.
+
+153
+00:11:24,200 --> 00:11:27,200
+ Danmark ligger jo i Norden ultimativt lavt.
+
+154
+00:11:27,200 --> 00:11:32,200
+ I det hele taget er vores middelivetid i Danmark ikke nået at prale af.
+
+155
+00:11:32,200 --> 00:11:37,200
+ Så jo, der er en lille fremgang fortsat i sammenligning med 2016 til nu 2020,
+
+156
+00:11:37,200 --> 00:11:39,200
+ eller hvor man har gjort det op,
+
+157
+00:11:39,200 --> 00:11:42,200
+ og hurra for det, det var ikke forventet et andet.
+
+158
+00:11:42,200 --> 00:11:45,200
+ Og det er også rigtigt, at Sverige har mistet en lille smule,
+
+159
+00:11:45,200 --> 00:11:48,200
+ men de er altså stadigvæk omkring et år længere frem end os,
+
+160
+00:11:48,200 --> 00:11:50,200
+ i forhold til deres middelivetid.
+
+161
+00:11:50,200 --> 00:11:52,200
+ Så der skal vi i hvert fald ikke komme for godt i gang.
+
+162
+00:11:52,200 --> 00:11:56,200
+ Spanien, som er alle jo uhære, ligeposer og ting og sager,
+
+163
+00:11:56,200 --> 00:11:58,200
+ de er også gået lidt tilbage i deres middelivetid,
+
+164
+00:11:58,200 --> 00:12:00,200
+ men det ændrer stadigvæk ikke ved,
+
+165
+00:12:00,200 --> 00:12:04,200
+ at de faktisk har en markant bedre middelivetid end vi har her i landet.
+
+166
+00:12:04,200 --> 00:12:08,200
+ Så pas nu på med det der jagten på frygt.
+
+167
+00:12:08,200 --> 00:12:10,200
+ Lad os holde os til fakta.
+
+168
+00:12:10,200 --> 00:12:12,200
+ Og det er selvfølgelig også fakta,
+
+169
+00:12:12,200 --> 00:12:15,200
+ der gør, at jeg i hele forløbet har haft ret.
+
+170
+00:12:15,200 --> 00:12:17,200
+ Det er også fakta, der gør,
+
+171
+00:12:17,200 --> 00:12:21,200
+ at da de den 24. februar sagde 870 i april,
+
+172
+00:12:21,200 --> 00:12:23,200
+ der vidste jeg uden at blinke,
+
+173
+00:12:23,200 --> 00:12:24,200
+ at det ikke kom til at ske,
+
+174
+00:12:24,200 --> 00:12:26,200
+ og vi ikke fik en tredje bølge.
+
+175
+00:12:26,200 --> 00:12:28,200
+ Det var ikke fordi jeg lyttede til noget maverumlen,
+
+176
+00:12:28,200 --> 00:12:31,200
+ det var fordi jeg så på fakta.
+
+177
+00:12:31,200 --> 00:12:33,200
+ Og hvis du har fokus på fakta,
+
+178
+00:12:33,200 --> 00:12:35,200
+ og hvis du har grund i fakta,
+
+179
+00:12:35,200 --> 00:12:38,200
+ altså hvis det er fakta, der er dit fondat,
+
+180
+00:12:38,200 --> 00:12:40,200
+ jamen så tager du altså heller ikke fejl.
+
+181
+00:12:40,200 --> 00:12:43,200
+ Men hvis det er maverumlen og matematiske modeller,
+
+182
+00:12:43,200 --> 00:12:44,200
+ som stikker fuldstændig af,
+
+183
+00:12:44,200 --> 00:12:47,200
+ og som slet ikke er baseret på reelt viden og indsigt,
+
+184
+00:12:47,200 --> 00:12:49,200
+ ja så stikker det af for os.
+
+185
+00:12:49,200 --> 00:12:51,200
+ Så hvor er vi med alt det her?
+
+186
+00:12:51,200 --> 00:12:54,200
+ Jamen lad os få åbnet landet.
+
+187
+00:12:54,200 --> 00:12:55,200
+ Eller sagt på en anden måde,
+
+188
+00:12:55,200 --> 00:12:56,200
+ vi er jo nødt til at spørge,
+
+189
+00:12:56,200 --> 00:12:58,200
+ ikke mindst landets diktat om,
+
+190
+00:12:58,200 --> 00:13:01,200
+ hvorfor åbner man ikke bare sådan her?
+
+191
+00:13:01,200 --> 00:13:05,200
+ Hvad er forklaringen ud over et ekstremt ønske om magt?
+
+192
+00:13:05,200 --> 00:13:06,200
+ Jeg kan ikke se det.
+
+193
+00:13:06,200 --> 00:13:09,200
+ Ren lagefagligt er der ikke nogen som helst årsag,
+
+194
+00:13:09,200 --> 00:13:12,200
+ til at holde noget som helst lukket.
+
+195
+00:13:12,200 --> 00:13:17,200
+ Der er i morgen anmeldt en demonstration om genåbningsfest.
+
+196
+00:13:17,200 --> 00:13:18,200
+ Det er fint,
+
+197
+00:13:18,200 --> 00:13:21,200
+ men i bund og grund kunne vi bare party,
+
+198
+00:13:21,200 --> 00:13:23,200
+ uden at skulle kalde det en demonstration,
+
+199
+00:13:23,200 --> 00:13:27,200
+ fordi der er reelt ikke længere nogen smitterisiko.
+
+200
+00:13:27,200 --> 00:13:29,200
+ Reelt kan vi åbne landet,
+
+201
+00:13:29,200 --> 00:13:32,200
+ uden at noget som helst bliver løbet i gang,
+
+202
+00:13:32,200 --> 00:13:34,200
+ fordi it is over.
+
+203
+00:13:35,200 --> 00:13:37,200
+ Så det var de gode budskaber.
+
+204
+00:13:37,200 --> 00:13:40,200
+ Jeg vil lige se, hvad I har af spørgsmål og kommentar,
+
+205
+00:13:40,200 --> 00:13:42,200
+ fordi så skal jeg nok svare det.
+
+206
+00:13:42,200 --> 00:13:47,200
+ Og jeg uddyber også gerne det, jeg har sagt her.
+
+207
+00:13:47,200 --> 00:13:50,200
+ Lad os lige se en gang,
+
+208
+00:13:50,200 --> 00:13:51,200
+ om nogen af jer har nogle spørgsmål.
+
+209
+00:13:51,200 --> 00:13:52,200
+ Hvis ikke I har det,
+
+210
+00:13:52,200 --> 00:13:57,200
+ så slipper I jo for at få nogle svar.
+
+211
+00:13:57,200 --> 00:13:58,200
+ Lad os lige se en gang.
+
+212
+00:14:01,200 --> 00:14:05,200
+ Hos mig er der ikke rigtigt nogen.
+
+213
+00:14:05,200 --> 00:14:07,200
+ Lad os lige se, om I har det.
+
+214
+00:14:07,200 --> 00:14:10,200
+ Nej.
+
+215
+00:14:10,200 --> 00:14:12,200
+ Jamen, ved du hvad, det var jo dejligt.
+
+216
+00:14:12,200 --> 00:14:18,200
+ Jeg forsøger jo også at gøre det så let forståeligt som overhovedet muligt.
+
+217
+00:14:18,200 --> 00:14:21,200
+ Men altså dagens gode budskab for lige at holde fast i den,
+
+218
+00:14:21,200 --> 00:14:27,200
+ det er jo altså, at positive procenten er praktisk talt 0,17%,
+
+219
+00:14:27,200 --> 00:14:29,200
+ men det er, som jeg siger, it is over.
+
+220
+00:14:29,200 --> 00:14:31,200
+ Og det er det som følge af foråret.
+
+221
+00:14:31,200 --> 00:14:34,200
+ Det er det som følge af flokimmuniteten.
+
+222
+00:14:34,200 --> 00:14:37,200
+ Det er det som følge af, at virus er blevet mere fredelig.
+
+223
+00:14:37,200 --> 00:14:39,200
+ Blandt andet på grund af de her mutationer.
+
+224
+00:14:39,200 --> 00:14:42,200
+ Så er middelevetiden blevet lidt bedre.
+
+225
+00:14:42,200 --> 00:14:43,200
+ Hurra for det.
+
+226
+00:14:43,200 --> 00:14:46,200
+ Men der er stadigvæk meget at være ked af.
+
+227
+00:14:46,200 --> 00:14:52,200
+ Ikke mindst, at vores generelle middelevetid er markant lavere end for eksempel i Sverige.
+
+228
+00:14:52,200 --> 00:14:54,200
+ Det handler om folkesundheden.
+
+229
+00:14:54,200 --> 00:14:58,200
+ Og der kan jeg selvfølgelig være rigtig meget bekymret for,
+
+230
+00:14:58,200 --> 00:15:04,200
+ at vi nu har sat big time ind på en dårlig folkesundhed.
+
+231
+00:15:04,200 --> 00:15:07,200
+ Vi ved, at befolkningen generelt er blevet mere inaktiv.
+
+232
+00:15:07,200 --> 00:15:09,200
+ Vi ved, at vi er blevet federe.
+
+233
+00:15:09,200 --> 00:15:11,200
+ Vi er blevet mere triste.
+
+234
+00:15:11,200 --> 00:15:13,200
+ Vi er blevet mere ensomme.
+
+235
+00:15:13,200 --> 00:15:14,200
+ Vi sover dårligt.
+
+236
+00:15:14,200 --> 00:15:16,200
+ Vi er kommet for sent i behandling.
+
+237
+00:15:16,200 --> 00:15:18,200
+ Vi er kommet for sent i diagnostikken.
+
+238
+00:15:18,200 --> 00:15:21,200
+ Så forventningen fra min side af vil være,
+
+239
+00:15:21,200 --> 00:15:24,200
+ at der er bestemt ikke noget godt at se frem til i forhold til middelevetiden,
+
+240
+00:15:24,200 --> 00:15:28,200
+ på grund af de massive sundhedsmæssige omkostninger,
+
+241
+00:15:28,200 --> 00:15:31,200
+ som det her corona-overgreb, vil jeg kalde det,
+
+242
+00:15:31,200 --> 00:15:33,200
+ har og har haft for befolkningen.
+
+243
+00:15:33,200 --> 00:15:35,200
+ Det er meget, meget uhyggeligt.
+
+244
+00:15:35,200 --> 00:15:37,200
+ Det er meget, meget trist.
+
+245
+00:15:37,200 --> 00:15:40,200
+ Det er meget beskæmmende at se, hvad det har haft af alvorlige konsekvenser.
+
+246
+00:15:40,200 --> 00:15:44,200
+ Og det kommer selvfølgelig til at sætte sine spor på dødeligheden,
+
+247
+00:15:44,200 --> 00:15:46,200
+ både nu og rigtig mange år frem.
+
+248
+00:15:46,200 --> 00:15:50,200
+ Fordi det har og vil have så alvorlige konsekvenser for folkesundheden.
+
+249
+00:15:50,200 --> 00:15:52,200
+ Alene ensomhed.
+
+250
+00:15:52,200 --> 00:15:54,200
+ Ensomhed er jo en dødelig sygdom.
+
+251
+00:15:54,200 --> 00:15:58,200
+ Ensomhed, ved vi, før al det her corona-helvede,
+
+252
+00:15:58,200 --> 00:16:01,200
+ koster 770 liv om året.
+
+253
+00:16:01,200 --> 00:16:05,200
+ Det var før, at folk blev så ensomme, som tilfældet har været,
+
+254
+00:16:05,200 --> 00:16:07,200
+ det sidste helvedesår, kan vi kalde det.
+
+255
+00:16:07,200 --> 00:16:10,200
+ Så min forventning er, at det kommer til at gå rigtig skidt,
+
+256
+00:16:10,200 --> 00:16:13,200
+ i forhold til vores folkesundhed, også på sigt.
+
+257
+00:16:13,200 --> 00:16:16,200
+ På grund af, at vi kommer til at betale en rigtig høj pris
+
+258
+00:16:16,200 --> 00:16:20,200
+ for alle de her meget alvorlige indgreb og tilsag, man har gjort.
+
+259
+00:16:20,200 --> 00:16:22,200
+ Men lad os få lukket landet op.
+
+260
+00:16:22,200 --> 00:16:26,200
+ Lad os kræve, at vores politikere er de forstandige.
+
+261
+00:16:26,200 --> 00:16:30,200
+ Statsministeren skal jo imod væk have politisk flertal
+
+262
+00:16:30,200 --> 00:16:33,200
+ for at vedblive med at være landets diktator.
+
+263
+00:16:33,200 --> 00:16:35,200
+ Så et eller andet sted,
+
+264
+00:16:35,200 --> 00:16:38,200
+ jeg er ikke sikker på, at man kan tale hende så meget til fornuft,
+
+265
+00:16:38,200 --> 00:16:41,200
+ men der er jo trods alt et parlamentarisk grundlag,
+
+266
+00:16:41,200 --> 00:16:44,200
+ som vi kan tale ind i og stille krav om,
+
+267
+00:16:44,200 --> 00:16:47,200
+ at man forholder sig til, som jeg har gjort, og gør,
+
+268
+00:16:47,200 --> 00:16:50,200
+ og ikke gør andet, de fakta, der er.
+
+269
+00:16:50,200 --> 00:16:53,200
+ Så med det vil jeg sige, lad os lige se, der kom en,
+
+270
+00:16:53,200 --> 00:16:57,200
+ som en af jer også sagde, at frygt har fat i mange.
+
+271
+00:16:57,200 --> 00:17:00,200
+ Ja, det gode er, lad mig slutte med et godt budskab,
+
+272
+00:17:00,200 --> 00:17:03,200
+ det gode er, hud over at positiv procenten er så lav,
+
+273
+00:17:03,200 --> 00:17:06,200
+ det gode er faktisk, at jeg oplever flere og flere,
+
+274
+00:17:06,200 --> 00:17:09,200
+ der falder skillende fra øjnene, som det så fornemt hedder.
+
+275
+00:17:09,200 --> 00:17:13,200
+ Flere og flere indser, at det har været frygt, der har været styrende.
+
+276
+00:17:13,200 --> 00:17:16,200
+ Flere og flere forstår fakta.
+
+277
+00:17:16,200 --> 00:17:19,200
+ Og ja, så er det rigtigt, at nogen af jer har forstået fakta fra starten.
+
+278
+00:17:19,200 --> 00:17:22,200
+ Men sandheden er jo også, at rigtig mange af jer er først kommet til,
+
+279
+00:17:22,200 --> 00:17:25,200
+ og for nogen tager det nogle gange lidt tid,
+
+280
+00:17:25,200 --> 00:17:28,200
+ fordi specielt hvis man har fulgt medierne,
+
+281
+00:17:28,200 --> 00:17:31,200
+ specielt hvis man har set tv-avisen og nyhederne,
+
+282
+00:17:31,200 --> 00:17:34,200
+ hvad jeg aldrig gør, så er man jo blevet smittet af den der frygt.
+
+283
+00:17:34,200 --> 00:17:37,200
+ Så er man jo blevet, oh my god, to mere, der har smittet.
+
+284
+00:17:37,200 --> 00:17:40,200
+ Nej, jamen tør jeg sove i nat, altså.
+
+285
+00:17:40,200 --> 00:17:44,200
+ Så jeg forstår godt den der hjernevaske, og jeg forstår også godt den der frygt,
+
+286
+00:17:44,200 --> 00:17:48,200
+ fordi vi bliver jo smittet af det, vi bliver påvirket af.
+
+287
+00:17:48,200 --> 00:17:52,200
+ Jeg har bare haft og har snudet i sporet, hvad angår fakta,
+
+288
+00:17:52,200 --> 00:17:55,200
+ og derfor har jeg faktisk ikke på et eneste tidspunkt
+
+289
+00:17:55,200 --> 00:17:58,200
+ været bange for det her corona-hysteri.
+
+290
+00:17:58,200 --> 00:18:01,200
+ Fordi jeg vidste, helt fra starten for et år siden,
+
+291
+00:18:01,200 --> 00:18:04,200
+ at vi kom ikke ind i en bravende epidemi.
+
+292
+00:18:04,200 --> 00:18:07,200
+ Og her, hvor jeg har fulgt tallene, og også hen over december,
+
+293
+00:18:07,200 --> 00:18:11,200
+ der var ikke noget, der stak af, der har jeg faktisk heller ikke været bange for.
+
+294
+00:18:11,200 --> 00:18:14,200
+ Så det er jo det gode, og det er jo lige præcis det fakta kan,
+
+295
+00:18:14,200 --> 00:18:19,200
+ at det kan fjerne angsten. Det kan i hvert fald fjerne den ubegrundet angst.
+
+296
+00:18:19,200 --> 00:18:23,200
+ Og det er det, som jeg håber, min fakta er med til at gøre hos dig.
+
+297
+00:18:23,200 --> 00:18:27,200
+ Og jeg håber, at du sover godt i nat og glæder dig over,
+
+298
+00:18:27,200 --> 00:18:31,200
+ at it is over, der er ingen far på færd.
+
+299
+00:18:31,200 --> 00:18:35,200
+ Og til gengæld skal du bruge kræfter på at få lagt et politisk pres,
+
+300
+00:18:35,200 --> 00:18:38,200
+ som du enden kan, til at landet bliver åbnet.
+
+301
+00:18:38,200 --> 00:18:42,200
+ Du skal også lægge pres på medierne til, at dem af os, der har fokus på fakta,
+
+302
+00:18:42,200 --> 00:18:46,200
+ inklusiv mig selv, begynder at blive hørt, og begynder at blive forstået,
+
+303
+00:18:46,200 --> 00:18:48,200
+ og begynder at blive til alvorligt.
+
+304
+00:18:48,200 --> 00:18:52,200
+ Fordi det har faktisk meget stor betydning for ikke mindst landets sikkerhed,
+
+305
+00:18:52,200 --> 00:18:57,200
+ for folkesundheden, og selvfølgelig også for landets økonomi.
+
+306
+00:18:57,200 --> 00:18:59,200
+ Jeg vil sige tak, fordi du kiggede med.
+
+307
+00:18:59,200 --> 00:19:04,200
+ Og jeg går helt sikkert også live i morgen, hvor vi fejrer et år i helvede.
+
+308
+00:19:04,200 --> 00:19:06,200
+ Jeg ved ikke, om det er noget at fejre.
+
+309
+00:19:06,200 --> 00:19:08,200
+ Jeg vil hellere det andet, som de siger, at vi skal have åbnet op.
+
+310
+00:19:08,200 --> 00:19:10,200
+ Og det kan du være med til ved at lægge pres.
+
+311
+00:19:10,200 --> 00:19:13,200
+ Kan du have det godt. Vi ses. Hej hej.
+
+312
+00:19:13,200 --> 00:19:14,200
+ Hej hej.
+
+313
+00:19:14,200 --> 00:19:17,200
+ Tekster af Amara.org fællesskab
+
+314
+00:19:17,200 --> 00:19:20,200
+ Undertekster af Amara.org fællesskab
+

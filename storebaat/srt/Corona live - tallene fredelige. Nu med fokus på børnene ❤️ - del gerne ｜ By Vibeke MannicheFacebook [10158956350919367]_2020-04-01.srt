@@ -1,0 +1,552 @@
+1
+00:00:00,000 --> 00:00:06,000
+ Så prøver vi igen, og denne gang håber jeg, at vi holder ud hele vejen.
+
+2
+00:00:06,000 --> 00:00:12,000
+ Jeg hedder Vibe Kemannike, jeg er læge og har en socialmedicinsk Ph.D.
+
+3
+00:00:12,000 --> 00:00:16,000
+ Og så har jeg i en meget stor del af min lægerlig karriere beskæftet mig med,
+
+4
+00:00:16,000 --> 00:00:19,000
+ hvad fejler befolkningen? Hvad fejler børnene?
+
+5
+00:00:19,000 --> 00:00:22,000
+ Hvad har vi at smitte sig om? Sygdomme er sjældne sygdomme.
+
+6
+00:00:22,000 --> 00:00:27,000
+ Jeg har i mange år rådgivet, undervist og lavet materiale til dagpasningerne om smitte som sygdomme.
+
+7
+00:00:27,000 --> 00:00:30,000
+ Kort sagt, du er i rigtig gode hænder.
+
+8
+00:00:30,000 --> 00:00:38,000
+ Jeg vil lige starte med at i fællesskab glædes over, at coronatallene er fortsat fuldstændig snorlige,
+
+9
+00:00:38,000 --> 00:00:44,000
+ fredelige, der er intet tegn på, at vi skulle være på vej ind i en bravende coronaepidemi.
+
+10
+00:00:44,000 --> 00:00:47,000
+ Det vil jeg heller ikke have forventet, og det har jeg heller ikke forventet,
+
+11
+00:00:47,000 --> 00:00:52,000
+ at den meget, meget simple grund, at virer som Covid-19,
+
+12
+00:00:52,000 --> 00:00:56,000
+ ligesom influenza, RS-virus og andre, de har en sæsonvariation.
+
+13
+00:00:56,000 --> 00:00:58,000
+ Og det er om vinteren.
+
+14
+00:00:58,000 --> 00:01:03,000
+ Så at vi skulle komme ind i en coronaepidemi, en bravende coronaepidemi nu,
+
+15
+00:01:03,000 --> 00:01:08,000
+ det var i mine øjne fuldstændig utænkeligt, og retfærdigvis også i andres,
+
+16
+00:01:08,000 --> 00:01:11,000
+ fordi vi ved, at der er den her sæsonvariation.
+
+17
+00:01:11,000 --> 00:01:15,000
+ Og efter alt at dømme har jeg indtil videre ret, så det er jo skønt.
+
+18
+00:01:15,000 --> 00:01:18,000
+ Og heldigvis begynder mange andre at kunne se det samme.
+
+19
+00:01:18,000 --> 00:01:21,000
+ Så det er hvad det er. Så lad os glædes over det.
+
+20
+00:01:21,000 --> 00:01:25,000
+ Men i dag vil jeg godt lige snakke lidt om børnene.
+
+21
+00:01:25,000 --> 00:01:30,000
+ Fordi de er jo fuldstændig overset i det her coronahelvede.
+
+22
+00:01:30,000 --> 00:01:35,000
+ Børnens minister, Mette Frederiksen, synes fuldstændig at have glemt,
+
+23
+00:01:35,000 --> 00:01:37,000
+ hvad det her egentlig har af betydning.
+
+24
+00:01:37,000 --> 00:01:41,000
+ Meget alvorlig betydning for vores børn, både på kort og på langt sigt.
+
+25
+00:01:41,000 --> 00:01:44,000
+ Jeg har i mange år været meget optaget af at udsatte børn,
+
+26
+00:01:44,000 --> 00:01:50,000
+ hvordan vi kan beskytte dem, hvordan vi kan få lavet så fint et sikkerhedsnet under børnene,
+
+27
+00:01:50,000 --> 00:02:00,000
+ så vi undgår, at de bliver udsat for krænkelser, vold, overgræb og i værste fald slås ihjel.
+
+28
+00:02:00,000 --> 00:02:05,000
+ Så det gjorde også, at jeg i sin tid sad med i Barnets Reform som lægerlig ekspert,
+
+29
+00:02:05,000 --> 00:02:09,000
+ da vi skærpede underretningsreglerne netop med henblik på,
+
+30
+00:02:09,000 --> 00:02:11,000
+ hvordan kan vi få lavet det her sikkerhedsnet,
+
+31
+00:02:11,000 --> 00:02:18,000
+ ikke mindst bestående af professionelle sundhedsplejersker, læger, lærere, dagplejere,
+
+32
+00:02:18,000 --> 00:02:20,000
+ pædagogmedhjælp osv.
+
+33
+00:02:20,000 --> 00:02:26,000
+ Så det er noget, jeg er meget optaget af at undervise og deltage en del i at have i forhold til.
+
+34
+00:02:26,000 --> 00:02:28,000
+ Så anyways, det ligger mig meget på hjerte.
+
+35
+00:02:28,000 --> 00:02:33,000
+ Og jeg må sige, at jeg er rigtig meget bekymret lige nu for vores udsatte børn.
+
+36
+00:02:33,000 --> 00:02:38,000
+ Fordi vi har børn i dette øjeblik, som bliver udsat for krænkelser, vold.
+
+37
+00:02:38,000 --> 00:02:41,000
+ Ser mor bliver udsat for voldig overgræb.
+
+38
+00:02:41,000 --> 00:02:46,000
+ Det ser vi også fra krisecentrene, hvordan kvinder kommer flygtende dertil i større antal end de plejer.
+
+39
+00:02:46,000 --> 00:02:51,000
+ Børn, der bliver holdt indelåst. Børn, der bliver isoleret mere end os andre.
+
+40
+00:02:51,000 --> 00:02:54,000
+ Altså kort sagt børn, der har det rigtig, rigtig svært.
+
+41
+00:02:54,000 --> 00:03:00,000
+ Og normalt så bygger vi jo op i forhold til professionelle, at de skal holde øje med lille Albert, lille Oda.
+
+42
+00:03:00,000 --> 00:03:07,000
+ Sikre sig, eller i hvert fald forsøge at sikre sig, at hun ikke bliver udsat for vold og seksuelle krænkelser osv.
+
+43
+00:03:07,000 --> 00:03:09,000
+ Reagerer, hvis de ser noget.
+
+44
+00:03:09,000 --> 00:03:12,000
+ Og lige nu, jamen der er det jo fuldstændig væk.
+
+45
+00:03:12,000 --> 00:03:18,000
+ Det netværk, vi har forsøgt at bygge op. Det netværk, som lovgivningen også byder os at bygge op.
+
+46
+00:03:18,000 --> 00:03:20,000
+ Det er skræmt, det er væk.
+
+47
+00:03:20,000 --> 00:03:25,000
+ Fordi de her børn er jo nu hjemme i det for nogen helvede, vi skal beskytte dem imod.
+
+48
+00:03:25,000 --> 00:03:30,000
+ Samtidig ser vi jo en stigning, forlyder det, af alkoholmisbrug.
+
+49
+00:03:30,000 --> 00:03:38,000
+ Jamen der ved vi også, at meget ofte går vold og seksuelle krænkelser af børn, det går hånd i hånd med misbrug hos forældrene.
+
+50
+00:03:38,000 --> 00:03:40,000
+ Psykisk sygdom og misbrug hos forældrene.
+
+51
+00:03:40,000 --> 00:03:45,000
+ Så jeg er rigtig bekymret for, hvordan nogle af vores udsatte børn har det derude.
+
+52
+00:03:45,000 --> 00:03:51,000
+ Når folk spørger mig, hvad er du mest bekymret for nu her, hvad er du mest ked af i det, så må jeg sige, at det er børnene.
+
+53
+00:03:51,000 --> 00:03:54,000
+ Det er rigtig meget børnene derude, jeg bekymrer mig om.
+
+54
+00:03:54,000 --> 00:04:00,000
+ Og tænker, altså de børn, som vi til daglig er bekymret for, hvordan går det så for dem nu?
+
+55
+00:04:00,000 --> 00:04:02,000
+ Jamen altså, hvad gætter du selv på?
+
+56
+00:04:02,000 --> 00:04:04,000
+ Selvfølgelig rigtig skidt.
+
+57
+00:04:04,000 --> 00:04:09,000
+ Så er jeg også ked af det, fordi jeg ved, at rigtig mange børn, uagtet om de er udsatte eller ej,
+
+58
+00:04:09,000 --> 00:04:14,000
+ er fuld af angst for tiden, er fuld af angst for corona, og hvad skal der ske i dem?
+
+59
+00:04:14,000 --> 00:04:17,000
+ Og hvad skal der ske på den lange sigt, og hvornår kommer de i skole?
+
+60
+00:04:17,000 --> 00:04:20,000
+ Og hele den der forfærdelige usikkerhed.
+
+61
+00:04:20,000 --> 00:04:25,000
+ Og den synes jeg jo langt hen ad vejen er ubegrundet, fordi det jo er blevet sådan et corona-monster.
+
+62
+00:04:25,000 --> 00:04:30,000
+ Det er jo blevet sådan en corona-hysteri, hvor når vi kigger på tallene,
+
+63
+00:04:30,000 --> 00:04:36,000
+ jamen dels er det en meget, meget spændtet grundlag, regeringen overhovedet har haft til at gøre det her på.
+
+64
+00:04:36,000 --> 00:04:42,000
+ Dels er det jo en brøddel af alt andet i samfundet, der egentlig er lige nu,
+
+65
+00:04:42,000 --> 00:04:44,000
+ eller som man i øvrigt skulle bekymre sig for, hvis det var det.
+
+66
+00:04:44,000 --> 00:04:48,000
+ Men den der frygt gør jo, at børn frygter.
+
+67
+00:04:48,000 --> 00:04:52,000
+ Åh nej, hvad skal der ske i mig, hvad skal der ske i mor, og kan jeg også dø af det?
+
+68
+00:04:52,000 --> 00:04:57,000
+ Og der må man jo sige, at det gode budskab er jo, at når vi ser på netop med børn,
+
+69
+00:04:57,000 --> 00:05:02,000
+ jamen så tyder alle data på, at et er om de kan få corona, det kan de nu nok,
+
+70
+00:05:02,000 --> 00:05:05,000
+ men at de typisk kan meget, meget få symptomer.
+
+71
+00:05:05,000 --> 00:05:09,000
+ Og det er jo igen tilbage til, hvor farlig er corona egentlig?
+
+72
+00:05:09,000 --> 00:05:13,000
+ Den snak skal vi ikke have nu, andet end egentlig lige med hinanden om,
+
+73
+00:05:13,000 --> 00:05:16,000
+ at vi altså har nogle børn derude, som har det svært.
+
+74
+00:05:16,000 --> 00:05:20,000
+ De har det svært, fordi de er bange, men nogle af dem har det også svært,
+
+75
+00:05:20,000 --> 00:05:24,000
+ fordi at de faktisk er fanget i et hjem, som er rigtig skidt for dem.
+
+76
+00:05:24,000 --> 00:05:29,000
+ Fordi der er vold, der er seksuelle krænkelser, der er misbrug hos forældrene,
+
+77
+00:05:29,000 --> 00:05:34,000
+ der er psykisk sygdom i en svær grad, som gør, at børnene får det svært.
+
+78
+00:05:34,000 --> 00:05:38,000
+ Og de her familier, ikke mindst børnene, de får faktisk lige nu på ingen måde,
+
+79
+00:05:38,000 --> 00:05:40,000
+ den hjælp, de har brug for.
+
+80
+00:05:40,000 --> 00:05:44,000
+ Så det jeg vil bede dig om, det er at være lidt mere opmærksom derude,
+
+81
+00:05:44,000 --> 00:05:50,000
+ holde lidt mere øje med børn, hvordan de har det, hvordan du kan hjælpe.
+
+82
+00:05:50,000 --> 00:05:56,000
+ Og så husk, at er du professionel, er du pædagog, lærer, læge,
+
+83
+00:05:56,000 --> 00:06:01,000
+ sygeplejerske, sundhedsplejerske, dagplejer, altså arbejder du professionelt med børn,
+
+84
+00:06:01,000 --> 00:06:06,000
+ så har du faktisk en udvidet underretningspligt, en skærpet underretningspligt.
+
+85
+00:06:06,000 --> 00:06:11,000
+ Og hvis du tilsidesætter denne skærpet underretningspligt, så kan du faktisk få,
+
+86
+00:06:11,000 --> 00:06:16,000
+ i værste fald, op til fire måneders fængsel for ondlaget at underrette,
+
+87
+00:06:16,000 --> 00:06:22,000
+ når du får kendskab til eller har mistanke om, at barn bliver udsat for vold eller seksuelle krænkelser.
+
+88
+00:06:22,000 --> 00:06:26,000
+ Og for os andre, eller jer andre, fordi jeg har også en skærpet underretningspligt,
+
+89
+00:06:26,000 --> 00:06:31,000
+ men for jer andre, ikke også almindelige borgere, der har I også en underretningspligt.
+
+90
+00:06:31,000 --> 00:06:37,000
+ Så hvis I får kendskab til eller mistanke om, at der pågår noget,
+
+91
+00:06:37,000 --> 00:06:40,000
+ f.eks. vold og seksuelle krænkelser i forhold til et barn,
+
+92
+00:06:40,000 --> 00:06:44,000
+ så har I en underretningspligt til at underrette de sociale myndigheder.
+
+93
+00:06:44,000 --> 00:06:49,000
+ Men mest af alt synes jeg, at det er tid til, at vi lige får fokus på børnene
+
+94
+00:06:49,000 --> 00:06:54,000
+ og ser, hvor meget de faktisk lider under det her coronahysteri, vi er ude i.
+
+95
+00:06:54,000 --> 00:07:03,000
+ Og på samme måde som der ikke var nogle lægefaglige, gode sundhedsfaglige dokumentation for,
+
+96
+00:07:03,000 --> 00:07:06,000
+ at landet lukkede ned, så mener jeg jo det samme,
+
+97
+00:07:06,000 --> 00:07:10,000
+ at der er endnu mindre dokumentation for, at det skal holdes lukket.
+
+98
+00:07:10,000 --> 00:07:15,000
+ Så ikke mindst på grund af børnene, men også på grund af alle de alvorlige syge og syge,
+
+99
+00:07:15,000 --> 00:07:18,000
+ der ikke får deres behandling, udredning osv.
+
+100
+00:07:18,000 --> 00:07:23,000
+ Landet, der lider, økonomien, virksomheder, arbejdsløse osv.
+
+101
+00:07:23,000 --> 00:07:30,000
+ Så mener jeg jo, at regeringen på ingen måde har nogen som helst lægefaglig, sundhedsfaglig dokumentation
+
+102
+00:07:30,000 --> 00:07:33,000
+ eller anledning til fortsat at holde landet lukket.
+
+103
+00:07:33,000 --> 00:07:35,000
+ Så jeg mener selvfølgelig, at landet det skal åbnes.
+
+104
+00:07:35,000 --> 00:07:43,000
+ Jeg mener, det er tid til, at vi som befolkning beder regeringen om at stille den dokumentation,
+
+105
+00:07:43,000 --> 00:07:46,000
+ som viser eller bekræfter den her coronaangst.
+
+106
+00:07:46,000 --> 00:07:49,000
+ Og jeg kan godt røge for dig, den er der ikke.
+
+107
+00:07:49,000 --> 00:07:57,000
+ Til gengæld er de ganske sparsomme, ganske spændte tal, vi har omkring corona, meget fredsomme.
+
+108
+00:07:57,000 --> 00:08:04,000
+ Og de viser, som jeg også sagde før, at der ikke tyder på, at vi er på vej ind i en coronaepidemi.
+
+109
+00:08:04,000 --> 00:08:10,000
+ Og sandsynligheden for det er meget lille taget ikke mindst sæsonen i betragtningen.
+
+110
+00:08:10,000 --> 00:08:17,000
+ Og af en eller anden grund er det, som om den der sæsonvariation er fuldstændig røget ud af mellemregningen her,
+
+111
+00:08:17,000 --> 00:08:20,000
+ og man har tænkt på, hvad var det, vi var på vej ind i.
+
+112
+00:08:20,000 --> 00:08:23,000
+ Og så er det selvfølgelig de sædvanlige ting, vi skal gøre.
+
+113
+00:08:23,000 --> 00:08:25,000
+ Isolation af de syge, det er klart.
+
+114
+00:08:25,000 --> 00:08:29,000
+ Dem, der vi ved har en smitsom sygdom, beskytte de særlige udsatte.
+
+115
+00:08:29,000 --> 00:08:33,000
+ Og så stadigvæk, som man siger, steppe op på håndhygiejnen,
+
+116
+00:08:33,000 --> 00:08:37,000
+ som jeg er helt sikker på, praktisk tale hele landet har gjort, meget, meget grundigt.
+
+117
+00:08:37,000 --> 00:08:42,000
+ Jeg skal lige høre, om der her på falderebet er nogle spørgsmål.
+
+118
+00:08:42,000 --> 00:08:47,000
+ Der er en, der syger, det er lidt tragisk komisk, at Mette Frederik kalder sig for børnets statsminister.
+
+119
+00:08:47,000 --> 00:08:49,000
+ Ja, det kan vi sådan set godt sige.
+
+120
+00:08:49,000 --> 00:08:54,000
+ Men det er jo så noget andet, og det er jo også det, hvor man kan sige, at i det her tilfælde,
+
+121
+00:08:54,000 --> 00:08:57,000
+ jeg har ikke hørt en eneste gang, at der har været fokus på børnene.
+
+122
+00:08:57,000 --> 00:08:59,000
+ Og der er slet ikke de udsatte børn.
+
+123
+00:08:59,000 --> 00:09:06,000
+ Og det er dem, som vi skal tage særlig hånd om, og det er dem, der lige nu fuldstændig bliver glemt.
+
+124
+00:09:06,000 --> 00:09:10,000
+ Så med det vil jeg bare sige, hey, husk nu, der er altså nogle børn derude,
+
+125
+00:09:10,000 --> 00:09:14,000
+ der faktisk har brug for os andre, og har brug for det der sikkerhedsnet,
+
+126
+00:09:14,000 --> 00:09:17,000
+ som samfundet normalt bygger op under dem.
+
+127
+00:09:17,000 --> 00:09:22,000
+ Der er nogle, der har brug for jer professionelle derude, der arbejder med dem til dagligt.
+
+128
+00:09:22,000 --> 00:09:26,000
+ Der er en grund til, at I bliver særligt uddannet til at holde øje med udsatte børn,
+
+129
+00:09:26,000 --> 00:09:30,000
+ og har nogle særlige redskaber, og ikke mindst har en særlig forpligtdelse.
+
+130
+00:09:30,000 --> 00:09:37,000
+ Den gælder også nu, selvom I faktisk på mange måder slet ikke har mulighed for at leve op til det ansvar.
+
+131
+00:09:37,000 --> 00:09:39,000
+ Og hvem betaler prisen?
+
+132
+00:09:39,000 --> 00:09:43,000
+ Det gør de udsatte børn, og det er rigtig, rigtig, rigtig trist,
+
+133
+00:09:43,000 --> 00:09:46,000
+ og det er faktisk ikke til at bære og tænke på.
+
+134
+00:09:46,000 --> 00:09:51,000
+ Så med det vil jeg sige, pas nu på os de andre derude.
+
+135
+00:09:51,000 --> 00:09:53,000
+ Hold øje med de udsatte, hold øje med børnene.
+
+136
+00:09:53,000 --> 00:09:56,000
+ De har brug for din stemme, de har brug for min stemme,
+
+137
+00:09:56,000 --> 00:09:59,000
+ og de har ikke mindst brug for, at landet bliver åbnet nu.
+
+138
+00:09:59,000 --> 00:10:03,000
+ Kan du have det godt derude. Vi ses. Hej hej.
+

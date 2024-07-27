@@ -1,0 +1,744 @@
+1
+00:00:00,920 --> 00:00:02,920
+ Her har du mig igen.
+
+2
+00:00:02,920 --> 00:00:04,440
+ Jeg hedder Vibe Kamanike.
+
+3
+00:00:04,440 --> 00:00:05,880
+ Jeg er læge, jeg har en Ph.D.
+
+4
+00:00:05,880 --> 00:00:09,960
+ Og så står jeg nu hernede på det skønne tennisanlæg.
+
+5
+00:00:09,960 --> 00:00:11,960
+ Jeg er ude og cykle en tur.
+
+6
+00:00:11,960 --> 00:00:13,960
+ Og nej, vi kan ikke spille tennis endnu.
+
+7
+00:00:13,960 --> 00:00:17,080
+ Men det er jo lidt en påmindelse om ikke kun tennis -
+
+8
+00:00:17,080 --> 00:00:20,400
+ - men også Djokovic, som jeg har meget stor respekt for -
+
+9
+00:00:20,400 --> 00:00:23,440
+ - og hans ageren her også under Australian Open.
+
+10
+00:00:23,440 --> 00:00:26,440
+ Men det var nu ikke tennis, vi skulle snakke om, eller Djokovic.
+
+11
+00:00:26,440 --> 00:00:30,760
+ Det var det, jeg kalder coronakrisens meget store tabu -
+
+12
+00:00:30,760 --> 00:00:34,640
+ - og som undrer mig, at ingen fra pressen har interesseret sig mere for -
+
+13
+00:00:34,640 --> 00:00:37,040
+ - eller i offentligheden eller myndighederne for den sags skyld -
+
+14
+00:00:37,040 --> 00:00:42,640
+ - nemlig at katte og hunde også smittes med corona.
+
+15
+00:00:42,640 --> 00:00:44,240
+ Vi er ved fra studier.
+
+16
+00:00:44,240 --> 00:00:47,240
+ Eller lad mig starte et andet sted.
+
+17
+00:00:47,240 --> 00:00:49,240
+ Hvordan var det nu lige med mængdene?
+
+18
+00:00:49,240 --> 00:00:52,240
+ Hvorfor var det nu lige, at mængdene skulle slås ned?
+
+19
+00:00:52,240 --> 00:00:53,640
+ Hud, hej, vilddyr.
+
+20
+00:00:53,640 --> 00:00:56,440
+ Det var jo, fordi der var nogle enkelte studier -
+
+21
+00:00:56,440 --> 00:00:59,840
+ - som viste, at ikke alene blev mængden smittet -
+
+22
+00:00:59,840 --> 00:01:03,640
+ - men måske, at der også kunne være transmission fra mængden til mennesker -
+
+23
+00:01:03,640 --> 00:01:07,240
+ - i forhold til coronasmitte.
+
+24
+00:01:07,240 --> 00:01:09,840
+ Så ved vi jo, og det vidste vi allerede der -
+
+25
+00:01:09,840 --> 00:01:11,640
+ - det var jo ikke kun mængden, vi talte om.
+
+26
+00:01:11,640 --> 00:01:16,840
+ Katte, hunde, ræve, morer, insekter.
+
+27
+00:01:16,840 --> 00:01:19,840
+ Vi er jo en del af et større økosystem.
+
+28
+00:01:19,840 --> 00:01:20,840
+ Den der -
+
+29
+00:01:20,840 --> 00:01:23,440
+ - jeg er så træt af den der coronategneserie -
+
+30
+00:01:23,440 --> 00:01:25,440
+ - den der med, at det er sort-hvidt -
+
+31
+00:01:25,440 --> 00:01:27,440
+ - du er vaccineret eller ikke vaccineret -
+
+32
+00:01:27,440 --> 00:01:31,040
+ - du har immunitet med vaccinen eller ej -
+
+33
+00:01:31,040 --> 00:01:32,240
+ - det er mængde eller ej -
+
+34
+00:01:32,240 --> 00:01:37,840
+ - det er jo noget fuldstændig kugt hjerneblæst vus.
+
+35
+00:01:37,840 --> 00:01:40,240
+ Nogle af jer får brystet, når jeg siger -
+
+36
+00:01:40,240 --> 00:01:42,840
+ - at dem, der går i takt, er en flok bunderøv.
+
+37
+00:01:42,840 --> 00:01:45,040
+ Og jeg ved da godt, det er ikke så pænt sagt -
+
+38
+00:01:45,040 --> 00:01:46,640
+ - men finde et bedre ord.
+
+39
+00:01:46,640 --> 00:01:50,240
+ Ignoranter, dumme, uvidende, hvad skal jeg kalde det?
+
+40
+00:01:50,240 --> 00:01:53,040
+ Det er jo så meget fup og fedduser -
+
+41
+00:01:53,040 --> 00:01:55,040
+ - og manipulation og propaganda -
+
+42
+00:01:55,040 --> 00:01:57,040
+ - og løgne og fortilser -
+
+43
+00:01:57,040 --> 00:01:59,040
+ - og det er til at brække sig over.
+
+44
+00:01:59,040 --> 00:02:01,040
+ Så derfor -
+
+45
+00:02:01,040 --> 00:02:04,440
+ - katte og hunde kan få corona -
+
+46
+00:02:04,440 --> 00:02:06,240
+ - og smittes med SARS-CoV-2.
+
+47
+00:02:06,240 --> 00:02:08,640
+ Faktisk findes der en særlig COVID-19 -
+
+48
+00:02:08,640 --> 00:02:12,840
+ - en feline-COVID, som rammer speciel kattekildinger -
+
+49
+00:02:12,840 --> 00:02:14,640
+ - og kan have dødelig udgang.
+
+50
+00:02:14,640 --> 00:02:18,640
+ Der findes coronavirus i det hele taget -
+
+51
+00:02:18,640 --> 00:02:21,640
+ - er velkendt blandt dyr, specielt også katte.
+
+52
+00:02:21,640 --> 00:02:24,640
+ Vi ved fra studier, og dem har vi nu en del af -
+
+53
+00:02:24,640 --> 00:02:30,440
+ - at mellem 15% og helt op til nok halvdelen af husholdninger -
+
+54
+00:02:30,440 --> 00:02:33,040
+ - altså hjem med katte eller hunde -
+
+55
+00:02:33,040 --> 00:02:35,640
+ - der er dyrene også smittet.
+
+56
+00:02:35,640 --> 00:02:39,040
+ Det betyder, at har du en katte eller en hund -
+
+57
+00:02:39,040 --> 00:02:41,440
+ - har du haft COVID-19 eller har du COVID-19 -
+
+58
+00:02:41,440 --> 00:02:45,840
+ - så kan du faktisk smitte din hund eller din kat.
+
+59
+00:02:45,840 --> 00:02:47,840
+ Så kan man sige, hvad betyder det?
+
+60
+00:02:47,840 --> 00:02:51,840
+ Langt største parten har ingen symptomer af katte eller hunde -
+
+61
+00:02:51,840 --> 00:02:54,840
+ - men er det en skrøbelig kat, er det en skrøbelig hund -
+
+62
+00:02:54,840 --> 00:02:57,840
+ - så kan den jo også blive syg.
+
+63
+00:02:57,840 --> 00:03:00,840
+ Det undrer mig, at man i alt det her -
+
+64
+00:03:00,840 --> 00:03:02,840
+ - ikke på noget tidspunkt, heller ikke i pressen -
+
+65
+00:03:02,840 --> 00:03:04,840
+ - har interesseret sig for det.
+
+66
+00:03:04,840 --> 00:03:07,840
+ Fordi det næste er selvfølgelig også, okay -
+
+67
+00:03:07,840 --> 00:03:12,840
+ - yes, vi mente mink kunne smitte, yes -
+
+68
+00:03:12,840 --> 00:03:16,840
+ - hvad så, kan skrøbelig katte, kan katte med meget diarré -
+
+69
+00:03:16,840 --> 00:03:19,840
+ - syge kildinger, syge gamle katte -
+
+70
+00:03:19,840 --> 00:03:23,840
+ - kan de så smitte os mennesker?
+
+71
+00:03:23,840 --> 00:03:25,840
+ Det er jo spørgsmålet.
+
+72
+00:03:25,840 --> 00:03:28,840
+ Der er nok noget, der tyder på, at de kan i sjældne tilfælde -
+
+73
+00:03:28,840 --> 00:03:30,840
+ - i hvert fald ved at vente om at sige -
+
+74
+00:03:30,840 --> 00:03:32,840
+ - vi kan ikke udelukke, at de ikke kan smitte.
+
+75
+00:03:32,840 --> 00:03:35,840
+ På samme måde, altså nu skal du holde fast i -
+
+76
+00:03:35,840 --> 00:03:37,840
+ - hele mink-sagen, det er derfor, jeg har taget en mink på i dag -
+
+77
+00:03:37,840 --> 00:03:39,840
+ - for jeg har sådan lidt -
+
+78
+00:03:39,840 --> 00:03:41,840
+ - ja, jeg har sagt det mange gange før -
+
+79
+00:03:41,840 --> 00:03:44,840
+ - det koster en rigsrets af, hele mink-skandalen -
+
+80
+00:03:44,840 --> 00:03:46,840
+ - i mine øjne koster nedlukningen -
+
+81
+00:03:46,840 --> 00:03:48,840
+ - og også en rigsrets af mod Mette Frederiksen -
+
+82
+00:03:48,840 --> 00:03:50,840
+ - jeg mener også, at Barbara Bertelsen skal tages med -
+
+83
+00:03:50,840 --> 00:03:52,840
+ - men det er en anden snak.
+
+84
+00:03:52,840 --> 00:03:54,840
+ Men anyways, så tænk dig nu om selv -
+
+85
+00:03:54,840 --> 00:03:56,840
+ - brug din sunde fornuft, hey -
+
+86
+00:03:56,840 --> 00:03:58,840
+ - mink et helt erhverv -
+
+87
+00:03:58,840 --> 00:04:00,840
+ - alle mink bliver slået ned -
+
+88
+00:04:00,840 --> 00:04:02,840
+ - hvem i sin vildeste fantasi -
+
+89
+00:04:02,840 --> 00:04:05,840
+ - kan forestille sig, at det er kun mink -
+
+90
+00:04:05,840 --> 00:04:08,840
+ - som rammes af SARS-CoV-2 -
+
+91
+00:04:08,840 --> 00:04:10,840
+ - og at det kun er mink, som kan smitte tilbage?
+
+92
+00:04:10,840 --> 00:04:12,840
+ Nej vel, det er jo det, der er pointen.
+
+93
+00:04:12,840 --> 00:04:15,840
+ Og det ved vi også, og det ved vi jo fra katte og hunde -
+
+94
+00:04:15,840 --> 00:04:17,840
+ - og specielt katte -
+
+95
+00:04:17,840 --> 00:04:19,840
+ - at de kan i hvert fald blive syge -
+
+96
+00:04:19,840 --> 00:04:21,840
+ - og det kan hunde også -
+
+97
+00:04:21,840 --> 00:04:23,840
+ - og de kan i hvert fald smittes -
+
+98
+00:04:23,840 --> 00:04:25,840
+ - og vi ved som sagt, at i husholdninger -
+
+99
+00:04:25,840 --> 00:04:27,840
+ - hvor mindst én har Covid-19 -
+
+100
+00:04:27,840 --> 00:04:30,840
+ - der er det mellem 15-50% -
+
+101
+00:04:30,840 --> 00:04:32,840
+ - hvor man altså også finder smitte -
+
+102
+00:04:32,840 --> 00:04:34,840
+ - eller antistoffer hos dyrene -
+
+103
+00:04:34,840 --> 00:04:36,840
+ - som tegn på tidligere smitte.
+
+104
+00:04:36,840 --> 00:04:38,840
+ Så alt sammen for at sige -
+
+105
+00:04:38,840 --> 00:04:40,840
+ - katte og hunde kan smittes -
+
+106
+00:04:40,840 --> 00:04:42,840
+ - ved at få SARS-CoV-2.
+
+107
+00:04:42,840 --> 00:04:45,840
+ Heldigvis har største parten af dem ingen symptomer.
+
+108
+00:04:45,840 --> 00:04:48,840
+ Vi ved ikke nok til, hvor meget de kan smitte den anden vej -
+
+109
+00:04:48,840 --> 00:04:51,840
+ - for eksempel i forhold til skrøbelige ældre -
+
+110
+00:04:51,840 --> 00:04:53,840
+ - svært syge osv.
+
+111
+00:04:53,840 --> 00:04:55,840
+ Men jeg synes, det er på tide -
+
+112
+00:04:55,840 --> 00:04:57,840
+ - at vi åbner op for den del også.
+
+113
+00:04:57,840 --> 00:05:00,840
+ Det er på tide, at vi forholder os til det.
+
+114
+00:05:00,840 --> 00:05:02,840
+ Og hvad er min pointe?
+
+115
+00:05:02,840 --> 00:05:05,840
+ I første omgang er det egentlig at tage diskussionen.
+
+116
+00:05:05,840 --> 00:05:08,840
+ Vi tester mennesker. Det er fint.
+
+117
+00:05:08,840 --> 00:05:10,840
+ Jeg mener masser af testninger.
+
+118
+00:05:10,840 --> 00:05:12,840
+ KUK med hjemmetest, spyttest osv. -
+
+119
+00:05:12,840 --> 00:05:15,840
+ - har jeg jo været fortaler for meget længe -
+
+120
+00:05:15,840 --> 00:05:17,840
+ - i forhold til hvis vi skal være sammen med nogen -
+
+121
+00:05:17,840 --> 00:05:19,840
+ - der er skrøbelig sårbar osv.
+
+122
+00:05:19,840 --> 00:05:21,840
+ Så kan vi tage en test bange med det samme.
+
+123
+00:05:21,840 --> 00:05:23,840
+ Ikke noget, der er taget for 2-3 døgn siden -
+
+124
+00:05:23,840 --> 00:05:25,840
+ - men det er hvad det er.
+
+125
+00:05:25,840 --> 00:05:27,840
+ På den måde kan man jo også argumentere for -
+
+126
+00:05:27,840 --> 00:05:29,840
+ - om man i et eller andet omfang -
+
+127
+00:05:29,840 --> 00:05:31,840
+ - hvis der er svær sygdom i familien -
+
+128
+00:05:31,840 --> 00:05:33,840
+ - eller hvis der i forhold til en hund eller en kat -
+
+129
+00:05:33,840 --> 00:05:35,840
+ - skulle teste den.
+
+130
+00:05:35,840 --> 00:05:37,840
+ Specielt hvis det er en kat, der har svær diarré -
+
+131
+00:05:37,840 --> 00:05:39,840
+ - eller er svært syg -
+
+132
+00:05:39,840 --> 00:05:42,840
+ - og der på en eller anden måde kan laves en kobling -
+
+133
+00:05:42,840 --> 00:05:46,840
+ - til om man i husstanden er syg med COVID-19 -
+
+134
+00:05:46,840 --> 00:05:48,840
+ - har været syg med COVID-19 osv.
+
+135
+00:05:48,840 --> 00:05:51,840
+ Så synes jeg, at på samme måde som vi tester mennesker -
+
+136
+00:05:51,840 --> 00:05:54,840
+ - med spyttest, næsepodning osv. -
+
+137
+00:05:54,840 --> 00:05:58,840
+ - det kan man faktisk også lave kigtest på katte og hunde.
+
+138
+00:05:58,840 --> 00:06:00,840
+ Det er ikke sådan, jeg så mener, at alle skal til -
+
+139
+00:06:00,840 --> 00:06:02,840
+ - og teste og pode og gøre ved.
+
+140
+00:06:02,840 --> 00:06:05,840
+ Men jeg vil meget gerne have, at vi åbner øjnene op for -
+
+141
+00:06:05,840 --> 00:06:09,840
+ - at COVID-19, SARS-CoV-2, er langt mere kompliceret -
+
+142
+00:06:09,840 --> 00:06:11,840
+ - end om du og jeg giver hinanden en atur -
+
+143
+00:06:11,840 --> 00:06:14,840
+ - end om du og jeg har mundbind på at lege -
+
+144
+00:06:14,840 --> 00:06:17,840
+ - end om du og jeg er vaccineret at lege.
+
+145
+00:06:17,840 --> 00:06:20,840
+ Vi er en del af et større økosystem.
+
+146
+00:06:20,840 --> 00:06:24,840
+ I det økosystem indgår også katte og hunde -
+
+147
+00:06:24,840 --> 00:06:28,840
+ - måre, insekter, ræve, mus -
+
+148
+00:06:28,840 --> 00:06:30,840
+ - rotter for den sags skyld.
+
+149
+00:06:30,840 --> 00:06:33,840
+ Alt sammen for at sige - våg nu op derude.
+
+150
+00:06:33,840 --> 00:06:35,840
+ Tag dit liv tilbage.
+
+151
+00:06:35,840 --> 00:06:38,840
+ Husk, at vi er en del af et større kompliceret samspil.
+
+152
+00:06:38,840 --> 00:06:41,840
+ Og så hader jeg tabuer på den måde.
+
+153
+00:06:41,840 --> 00:06:43,840
+ Og det har længe...
+
+154
+00:06:43,840 --> 00:06:45,840
+ Jeg er ikke dyrlæge. Jeg er læge.
+
+155
+00:06:45,840 --> 00:06:46,840
+ Jeg er ikke dyrlæge.
+
+156
+00:06:46,840 --> 00:06:50,840
+ Så der er uden tvivl dyrlæger, som har meget mere forstand på det her -
+
+157
+00:06:50,840 --> 00:06:51,840
+ - end jeg har.
+
+158
+00:06:51,840 --> 00:06:54,840
+ Men det undrer mig, at det har været så tabuiseret.
+
+159
+00:06:54,840 --> 00:06:58,840
+ Og nu er det i hvert fald out in the open.
+
+160
+00:06:58,840 --> 00:06:59,840
+ Kan du nu have det godt?
+
+161
+00:06:59,840 --> 00:07:02,840
+ Jeg er ude og cykle en lille tur.
+
+162
+00:07:02,840 --> 00:07:04,840
+ Jeg har været ude og løbe.
+
+163
+00:07:04,840 --> 00:07:05,840
+ Nogen vil kalde det tøffe.
+
+164
+00:07:05,840 --> 00:07:06,840
+ Jeg har været ude og svømme.
+
+165
+00:07:06,840 --> 00:07:08,840
+ Nogen vil kalde det at døbe sig.
+
+166
+00:07:08,840 --> 00:07:09,840
+ Og nu er jeg ude og cykle.
+
+167
+00:07:09,840 --> 00:07:12,840
+ Og nogen vil kalde det tjov.
+
+168
+00:07:12,840 --> 00:07:15,840
+ Det ændrer ikke ved, at vi skal ud og tage liv tilbage.
+
+169
+00:07:15,840 --> 00:07:17,840
+ Vi skal ud og motionere.
+
+170
+00:07:17,840 --> 00:07:20,840
+ Vi skal ud og leve livet.
+
+171
+00:07:20,840 --> 00:07:22,840
+ Også med vores katte og hunde.
+
+172
+00:07:22,840 --> 00:07:23,840
+ Jeg har selv en hund.
+
+173
+00:07:23,840 --> 00:07:25,840
+ Nogle af jer har set hende.
+
+174
+00:07:25,840 --> 00:07:28,840
+ Den dejlige lille bokserpige Bella.
+
+175
+00:07:28,840 --> 00:07:31,840
+ Så for mig er hunde og katte for den sags skyld -
+
+176
+00:07:31,840 --> 00:07:33,840
+ - en væsentlig del af et godt liv.
+
+177
+00:07:33,840 --> 00:07:35,840
+ Men det ændrer ikke ved, at vi skal være blinde for -
+
+178
+00:07:35,840 --> 00:07:36,840
+ - 1. om de kan smittes -
+
+179
+00:07:36,840 --> 00:07:38,840
+ - og 2. om de kan smitte tilbage -
+
+180
+00:07:38,840 --> 00:07:42,840
+ - ikke mindst i forhold til skrøbelige og sårbare.
+
+181
+00:07:42,840 --> 00:07:43,840
+ Det var, hvad jeg havde.
+
+182
+00:07:43,840 --> 00:07:44,840
+ Kan du have det godt, min mand?
+
+183
+00:07:44,840 --> 00:07:46,840
+ Og så ses vi lige pludselig.
+
+184
+00:07:46,840 --> 00:07:47,840
+ Og del meget gerne.
+
+185
+00:07:47,840 --> 00:07:48,840
+ Hej hej.
+
+186
+00:07:48,840 --> 00:07:50,840
+ Hej, hej.
+
