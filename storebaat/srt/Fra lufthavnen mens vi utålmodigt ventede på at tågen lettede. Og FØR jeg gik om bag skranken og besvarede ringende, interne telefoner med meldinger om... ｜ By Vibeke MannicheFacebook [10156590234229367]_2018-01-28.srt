@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:05,000
+ Det er faktisk en smoothie, og vi er stadig hjemme og klar.
+
+2
+00:00:05,000 --> 00:00:08,000
+ Prøv at sige det igen.
+
+3
+00:00:08,000 --> 00:00:10,000
+ Ja, det er bare en hilsen fra Kasper og Tove.
+
+4
+00:00:10,000 --> 00:00:13,000
+ Hej Jeppe, hej Romeo, vi kommer snart.
+
+5
+00:00:13,000 --> 00:00:14,000
+ Vi kommer snart.
+
+6
+00:00:14,000 --> 00:00:15,000
+ Hej Romeo, I er på vej.
+
+7
+00:00:15,000 --> 00:00:16,000
+ Vi bliver aldrig oppe.
+
+8
+00:00:16,000 --> 00:00:17,000
+ Nej.
+
+9
+00:00:17,000 --> 00:00:23,000
+ Vi er virkelig blevet mere, vi er virkelig stået her og holdt sig orienteret.
+
+10
+00:00:23,000 --> 00:00:24,000
+ - Ja. - Ja.
+
+11
+00:00:24,000 --> 00:00:26,000
+ - For at få flyvetnumrene og...
+

@@ -1,0 +1,1108 @@
+1
+00:00:00,000 --> 00:00:07,000
+ Så er jeg tilbage. Mit navn er Rebecca Malike. Jeg er læge. Det er jo det.
+
+2
+00:00:07,000 --> 00:00:15,000
+ Og nogle af jer kender mig jo ret godt, fordi jeg har jo været, skal vi sige, generatoren for vores frihedskamp nu de sidste otte måneder.
+
+3
+00:00:15,000 --> 00:00:17,000
+ Og hvad jeg må sige er, at det jo fortsat.
+
+4
+00:00:17,000 --> 00:00:23,000
+ Det som jeg har efterlyst og efterlyser hele tiden, det er fakta, fakta, fakta.
+
+5
+00:00:23,000 --> 00:00:27,000
+ Snarere end mavefornemmelser, gissninger, frygt og så videre.
+
+6
+00:00:27,000 --> 00:00:31,000
+ Det er de sidste tre ting, som regeringens tiltag vil være præge af.
+
+7
+00:00:31,000 --> 00:00:36,000
+ Det er det første. Jeg fæster mig ved hele tiden fakta eller mangen på samme.
+
+8
+00:00:36,000 --> 00:00:40,000
+ Lad os starte med dagens fine corona-tal, covid-19-tal.
+
+9
+00:00:40,000 --> 00:00:46,000
+ Der er testet rigtig mange, og der er tilsvarende også fundet en del, der er smittet til sygenladende.
+
+10
+00:00:46,000 --> 00:00:48,000
+ Det er ikke helt betydeligt med, at de er syge.
+
+11
+00:00:48,000 --> 00:00:52,000
+ Men tallet ligger. Positivprocenten ligger på lige omkring 1,88 procent.
+
+12
+00:00:52,000 --> 00:00:55,000
+ På cirka nogen sider lå den omkring næsten 2 procent.
+
+13
+00:00:55,000 --> 00:00:58,000
+ Så den ligger og svinger, men er meget fredelig.
+
+14
+00:00:58,000 --> 00:01:01,000
+ Det samme er antallet af døde med covid-19.
+
+15
+00:01:01,000 --> 00:01:05,000
+ Det vi ikke ved, og det som nogen af jer også har spurgt om, det er.
+
+16
+00:01:05,000 --> 00:01:09,000
+ Jamen lidt er du testet positiv, men hvad siger det egentlig?
+
+17
+00:01:09,000 --> 00:01:12,000
+ Hvad siger den her PCR-test? Hvad er det for noget?
+
+18
+00:01:12,000 --> 00:01:18,000
+ Jamen det er en test, hvor man går ind og laver en undersøgelse på det genetiske materiale -
+
+19
+00:01:18,000 --> 00:01:21,000
+ - fra i det her tilfælde covid-19, virus SARS-CoV-2.
+
+20
+00:01:21,000 --> 00:01:26,000
+ Og det, der er interessant, er for det første, at der er forskellige laboratorier rundt i landet -
+
+21
+00:01:26,000 --> 00:01:29,000
+ - der faktisk tester forskellige dele.
+
+22
+00:01:29,000 --> 00:01:33,000
+ Så det vil sige, at vi har ikke engang en ensartet testning.
+
+23
+00:01:33,000 --> 00:01:36,000
+ Det næste er, hvor mange cykler kører man?
+
+24
+00:01:36,000 --> 00:01:39,000
+ Altså, hvor meget veder man efter det her genetiske materiale?
+
+25
+00:01:39,000 --> 00:01:44,000
+ Og der plejer man at sige, eller ikke siger man, at der er en god tommelfinder-regel -
+
+26
+00:01:44,000 --> 00:01:49,000
+ - at den skal ikke meget over 30 cykler, og måske endda også under.
+
+27
+00:01:49,000 --> 00:01:53,000
+ Før vi kan være sikre på, om der overhovedet er et virus at bruge -
+
+28
+00:01:53,000 --> 00:01:55,000
+ - altså om der overhovedet er noget, der smitter -
+
+29
+00:01:55,000 --> 00:02:00,000
+ - eller om det bare er et lille, lille, lille billedev fra noget, der kun minder om en virus engang.
+
+30
+00:02:00,000 --> 00:02:03,000
+ Og der ligger rigtig mange af de tester, vi udfører -
+
+31
+00:02:03,000 --> 00:02:07,000
+ - de ligger helt oppe omkring 35, så allerede der har vi nu sikkerhed.
+
+32
+00:02:07,000 --> 00:02:10,000
+ Så er der det, der hedder fat-positiv.
+
+33
+00:02:10,000 --> 00:02:14,000
+ Altså, hvor mange af dem, du tester, har overhovedet noget som helst -
+
+34
+00:02:14,000 --> 00:02:17,000
+ - der tangerer noget som helst med covid-19.
+
+35
+00:02:17,000 --> 00:02:20,000
+ Det tal ligger nok omkring 0,25 procent.
+
+36
+00:02:20,000 --> 00:02:23,000
+ Igen lidt afhængig af, hvad er det for en maskine, der bruges -
+
+37
+00:02:23,000 --> 00:02:25,000
+ - og hvor den bruges rundt omkring i landet.
+
+38
+00:02:25,000 --> 00:02:30,000
+ Men 0,25 procent, jamen der skal du så ud af dagens tal på lidt over 1000 -
+
+39
+00:02:30,000 --> 00:02:36,000
+ - der skal du trække i hvert fald 150 fra, som altså ikke har noget som helst med covid-19 at gøre.
+
+40
+00:02:36,000 --> 00:02:41,000
+ Men det næste er så, dem der har testet, hvor mange af dem er så et overhovedet syg -
+
+41
+00:02:41,000 --> 00:02:43,000
+ - to smitter andre.
+
+42
+00:02:43,000 --> 00:02:48,000
+ Jamen der ved vi, at det er nok på den her cirka halvdelen, der reelt har symptomer -
+
+43
+00:02:48,000 --> 00:02:50,000
+ - måske endda færre.
+
+44
+00:02:50,000 --> 00:02:53,000
+ Det var noget, man ønskede fra starten, med god ret -
+
+45
+00:02:53,000 --> 00:02:56,000
+ - at man havde spurgt alle testet, hvad har du af symptomer -
+
+46
+00:02:56,000 --> 00:03:00,000
+ - og ikke mindst, så vi også kunne se, om de smittede har de overhovedet symptomer.
+
+47
+00:03:00,000 --> 00:03:02,000
+ Det ønskede man angivelig ikke fra regeringssiden -
+
+48
+00:03:02,000 --> 00:03:05,000
+ - og det gør vi i dag faktisk reelt ikke aner -
+
+49
+00:03:05,000 --> 00:03:08,000
+ - hvor mange af de her, tror jeg var det 1200 i dag -
+
+50
+00:03:08,000 --> 00:03:11,000
+ - som overhovedet har symptomer, og dermed overhovedet er syg.
+
+51
+00:03:11,000 --> 00:03:13,000
+ Jo, vi ved, at man har lavet en PCR-test -
+
+52
+00:03:13,000 --> 00:03:16,000
+ - og vi ved, at der blev fundet et eller andet -
+
+53
+00:03:16,000 --> 00:03:19,000
+ - men det er jo faktisk ikke ens betydning af, at de her mennesker er syge.
+
+54
+00:03:19,000 --> 00:03:22,000
+ Og derfor er det også interessant, når man ser på det -
+
+55
+00:03:22,000 --> 00:03:25,000
+ - jamen, de testede positivt, ja -
+
+56
+00:03:25,000 --> 00:03:27,000
+ - og er de syge?
+
+57
+00:03:27,000 --> 00:03:28,000
+ Who knows?
+
+58
+00:03:28,000 --> 00:03:30,000
+ Vi ved, at det er mindre end halvdelen -
+
+59
+00:03:30,000 --> 00:03:32,000
+ - og derudaf ved vi så også, at ud af den halvdelen -
+
+60
+00:03:32,000 --> 00:03:35,000
+ - hvor mange af dem smitter så andre -
+
+61
+00:03:35,000 --> 00:03:37,000
+ - og det er jo det, der er helt omgangs på.
+
+62
+00:03:37,000 --> 00:03:39,000
+ Når vi tager den formøbs- og mink-historie -
+
+63
+00:03:39,000 --> 00:03:41,000
+ - og jeg synes, at det er en fantastisk tragedie -
+
+64
+00:03:41,000 --> 00:03:43,000
+ - både for minkene -
+
+65
+00:03:43,000 --> 00:03:45,000
+ - og her, hvor jeg tænker, hvor er dyrevelfærd i det her -
+
+66
+00:03:45,000 --> 00:03:49,000
+ - at man uden andeden går ned og slår millioner af mink ned.
+
+67
+00:03:49,000 --> 00:03:51,000
+ Det er en kæmpe katastrofe for minkavlerne.
+
+68
+00:03:51,000 --> 00:03:55,000
+ Det er en tragedie for landet af mange grunde.
+
+69
+00:03:55,000 --> 00:03:58,000
+ Det er jo en væsentlig del af vores erhvervsliv.
+
+70
+00:03:58,000 --> 00:04:01,000
+ Men så er det faktisk også interessant at se -
+
+71
+00:04:01,000 --> 00:04:03,000
+ - hvad er det egentlig, at de her mink fejler?
+
+72
+00:04:03,000 --> 00:04:06,000
+ Hvor mange dage er de syge? Bliver de overhovedet syge?
+
+73
+00:04:06,000 --> 00:04:09,000
+ Jeg bemærkede meget hurtigt, da minkavlerne talte om det -
+
+74
+00:04:09,000 --> 00:04:11,000
+ - at det var få dage, hvor de her mink var påvirket -
+
+75
+00:04:11,000 --> 00:04:14,000
+ - måske med ikke spise helt så meget, som de plejer -
+
+76
+00:04:14,000 --> 00:04:16,000
+ - og så er de sådan set raske igen.
+
+77
+00:04:16,000 --> 00:04:18,000
+ Og det viser lige præcis noget om -
+
+78
+00:04:18,000 --> 00:04:21,000
+ - hvor alvorligt er COVID-19 egentlig gået hen og blevet.
+
+79
+00:04:21,000 --> 00:04:23,000
+ Og hvad er det for en mutation -
+
+80
+00:04:23,000 --> 00:04:25,000
+ - som Kåre Møllebakke forvider at tale om?
+
+81
+00:04:25,000 --> 00:04:27,000
+ Og jeg mener, det forvider.
+
+82
+00:04:27,000 --> 00:04:29,000
+ Eller er det i virkeligheden videnskabelig uredelighed?
+
+83
+00:04:29,000 --> 00:04:31,000
+ Sådan opfatter jeg det.
+
+84
+00:04:31,000 --> 00:04:33,000
+ Når man går frem med noget så drastisk -
+
+85
+00:04:33,000 --> 00:04:36,000
+ - som at sige, at der er tøj, der er smittet.
+
+86
+00:04:36,000 --> 00:04:38,000
+ Who knows? Jeg har ikke set de data.
+
+87
+00:04:38,000 --> 00:04:40,000
+ Jeg har ikke set noget publiceret.
+
+88
+00:04:40,000 --> 00:04:42,000
+ Jeg kan ikke finde de data.
+
+89
+00:04:42,000 --> 00:04:44,000
+ Det er i virkeligheden en udokumenteret posthand -
+
+90
+00:04:44,000 --> 00:04:47,000
+ - om noget, der er meget væsentligt for folkesundheden -
+
+91
+00:04:47,000 --> 00:04:49,000
+ - som en forsker kommer frem med.
+
+92
+00:04:49,000 --> 00:04:52,000
+ Det har jeg kun i hård for. Det er videnskabelig uredelighed.
+
+93
+00:04:52,000 --> 00:04:55,000
+ Vi kan ikke genfinde de data, de er publiceret noget sted.
+
+94
+00:04:55,000 --> 00:04:57,000
+ Vi ved ikke, om det overhovedet er korrekt.
+
+95
+00:04:57,000 --> 00:05:00,000
+ Hvem siger, at det er minkene, der har smittet menneskerne -
+
+96
+00:05:00,000 --> 00:05:02,000
+ - og at det overhovedet er tøj -
+
+97
+00:05:02,000 --> 00:05:04,000
+ - frem for det menneske, der har smittet minkene -
+
+98
+00:05:04,000 --> 00:05:06,000
+ - eller hvem har overhovedet smittet hvem.
+
+99
+00:05:06,000 --> 00:05:09,000
+ Den næste er den her famøse mutation.
+
+100
+00:05:09,000 --> 00:05:11,000
+ Den ved vi faktisk heller ikke noget om.
+
+101
+00:05:11,000 --> 00:05:14,000
+ For igen, vi har ikke adgang til de data, de er ikke publiceret.
+
+102
+00:05:14,000 --> 00:05:16,000
+ Det er galt konkurrence.
+
+103
+00:05:16,000 --> 00:05:18,000
+ Jeg vil så fortælle dig, at et tjeviler -
+
+104
+00:05:18,000 --> 00:05:22,000
+ - der beskrever i hvert fald 198 mutationer -
+
+105
+00:05:22,000 --> 00:05:25,000
+ - i forhold til SARS-CoV-2, altså COVID-19-virus.
+
+106
+00:05:25,000 --> 00:05:28,000
+ Så hvad er det her for en ekstra mutation?
+
+107
+00:05:28,000 --> 00:05:31,000
+ Er den værre, at de andre sidder på den anden sted?
+
+108
+00:05:31,000 --> 00:05:34,000
+ Who knows? Det er ikke publiceret.
+
+109
+00:05:34,000 --> 00:05:37,000
+ Så tilbage er, at det jo er meget, meget godt så -
+
+110
+00:05:37,000 --> 00:05:40,000
+ - når regeringen går ind og lukker en hel region.
+
+111
+00:05:40,000 --> 00:05:43,000
+ Det vil jeg forventede i et vidensafhold -
+
+112
+00:05:43,000 --> 00:05:45,000
+ - som jeg yder mig ind i leveret i -
+
+113
+00:05:45,000 --> 00:05:47,000
+ - bygget på fakta.
+
+114
+00:05:47,000 --> 00:05:49,000
+ Fakta, som blev fremlagt fra hele befolkningen -
+
+115
+00:05:49,000 --> 00:05:52,000
+ - dig og mig, det videnskabelige forum.
+
+116
+00:05:52,000 --> 00:05:55,000
+ Fakta snarere end, hvad det jo er politik -
+
+117
+00:05:55,000 --> 00:05:58,000
+ - ønsket om at holde befolkningen i en hjernevn -
+
+118
+00:05:58,000 --> 00:06:02,000
+ - gistninger, frygt og mavefornemmelse.
+
+119
+00:06:02,000 --> 00:06:05,000
+ Og ved du hvad, det kan det ikke være bekendt i 2020.
+
+120
+00:06:05,000 --> 00:06:09,000
+ Du har en uddannelse, du er uddannet, jeg har en uddannelse -
+
+121
+00:06:09,000 --> 00:06:12,000
+ - jeg er uddannet, hele mit virke bygger på fakta -
+
+122
+00:06:12,000 --> 00:06:14,000
+ - videnskabelige dokumentationer.
+
+123
+00:06:14,000 --> 00:06:16,000
+ Hvad har vi af evidens?
+
+124
+00:06:16,000 --> 00:06:19,000
+ Og så bliver landet bragt ud i sådan en fase -
+
+125
+00:06:19,000 --> 00:06:22,000
+ - et hysteri, en tragedie, som det er.
+
+126
+00:06:22,000 --> 00:06:25,000
+ Og det er ikke engang bygget på fakta, det er så skræmmende -
+
+127
+00:06:25,000 --> 00:06:27,000
+ - det er så uhyggeligt.
+
+128
+00:06:27,000 --> 00:06:30,000
+ Så har vi til sidst det formøde som munddygn -
+
+129
+00:06:30,000 --> 00:06:33,000
+ - eller som en af jer meget rigtig kaldte, mundbly.
+
+130
+00:06:33,000 --> 00:06:35,000
+ Jeg vil lige vise noget med det her munddygn -
+
+131
+00:06:35,000 --> 00:06:38,000
+ - fordi for det første, vi aner ikke om det virker -
+
+132
+00:06:38,000 --> 00:06:40,000
+ - i forhold til Covid-19.
+
+133
+00:06:40,000 --> 00:06:42,000
+ Vi venter stadigvæk på den forskning, der skal komme -
+
+134
+00:06:42,000 --> 00:06:45,000
+ - på Ishospitalet, hvor man har lavet en dobbeltmødeundersøgelse.
+
+135
+00:06:45,000 --> 00:06:48,000
+ Så mit gæld er, at det ikke virker i forhold til Covid-19 -
+
+136
+00:06:48,000 --> 00:06:51,000
+ - who knows, men jeg ved til gengæld, at der er rigtig mange -
+
+137
+00:06:51,000 --> 00:06:55,000
+ - negative konsekvenser ved at bruge sådan en karbat her.
+
+138
+00:06:55,000 --> 00:06:58,000
+ For det første, jamen altså ingen -
+
+139
+00:06:58,000 --> 00:07:01,000
+ - jeg har jo ikke set dem gå rundt og gøre den fuldstændig snorlig -
+
+140
+00:07:01,000 --> 00:07:02,000
+ - som de skal.
+
+141
+00:07:02,000 --> 00:07:04,000
+ Det vil sige rigtig mange gennembruger -
+
+142
+00:07:04,000 --> 00:07:06,000
+ - sådan en lille djævel her.
+
+143
+00:07:06,000 --> 00:07:08,000
+ Det vil sige, de fugler og fedder rundt ved det -
+
+144
+00:07:08,000 --> 00:07:10,000
+ - hvor har de her hænder været -
+
+145
+00:07:10,000 --> 00:07:12,000
+ - de har rørt med noget, hvor der er bakterier -
+
+146
+00:07:12,000 --> 00:07:14,000
+ - virus, koli-bakterier, affødningsbakterier osv.
+
+147
+00:07:14,000 --> 00:07:17,000
+ Det vil sige, de her små jazzhands, som jeg kalder dem -
+
+148
+00:07:17,000 --> 00:07:19,000
+ - de må ikke beskide.
+
+149
+00:07:19,000 --> 00:07:22,000
+ De kommer her på mundbenet -
+
+150
+00:07:22,000 --> 00:07:24,000
+ - og så får man ellers sat den på snudskræftet -
+
+151
+00:07:24,000 --> 00:07:26,000
+ - på hvilken side, man nu har tid til -
+
+152
+00:07:26,000 --> 00:07:28,000
+ - for man skal jo som sagt nå et tog -
+
+153
+00:07:28,000 --> 00:07:30,000
+ - eller gøre et eller andet, eller fremme i køen -
+
+154
+00:07:30,000 --> 00:07:31,000
+ - eller hvad det nu er.
+
+155
+00:07:31,000 --> 00:07:33,000
+ Og så får man den ellers sat heroppe -
+
+156
+00:07:33,000 --> 00:07:35,000
+ - mådeles op under øjnene, hvis det kan -
+
+157
+00:07:35,000 --> 00:07:38,000
+ - man har briller på, så dupper de.
+
+158
+00:07:38,000 --> 00:07:41,000
+ Og så sidder man ellers der og kan ikke se noget som helst.
+
+159
+00:07:41,000 --> 00:07:44,000
+ Så får man den ellers lirket rundt og ned -
+
+160
+00:07:44,000 --> 00:07:46,000
+ - og gjort alt muligt.
+
+161
+00:07:46,000 --> 00:07:47,000
+ Og så kommer man i serien.
+
+162
+00:07:47,000 --> 00:07:50,000
+ Jamen, pointen er, at du kan jo ikke se ned.
+
+163
+00:07:50,000 --> 00:07:53,000
+ Er du gående ud over din sikkerhed, din gangsikkerhed -
+
+164
+00:07:53,000 --> 00:07:57,000
+ - du risikerer at falde over fliser, kansten og så videre.
+
+165
+00:07:57,000 --> 00:07:59,000
+ Og det betyder jo, at specielt dårliggående -
+
+166
+00:07:59,000 --> 00:08:01,000
+ - en del af vores ældre -
+
+167
+00:08:01,000 --> 00:08:03,000
+ - dårligt seende -
+
+168
+00:08:03,000 --> 00:08:07,000
+ - folk med lungeproblemer og så videre -
+
+169
+00:08:07,000 --> 00:08:09,000
+ - kan for det første ikke trække vejret.
+
+170
+00:08:09,000 --> 00:08:12,000
+ Vi ved, at det går rigtig meget ud over lungekapaciteten -
+
+171
+00:08:12,000 --> 00:08:15,000
+ - når du har mundblæ på, som vi kunne kalde det.
+
+172
+00:08:15,000 --> 00:08:18,000
+ Men du risikerer også meget, som vi skulle få faldet.
+
+173
+00:08:18,000 --> 00:08:21,000
+ Og noget af det, der faktisk slår vores ældre medborgere -
+
+174
+00:08:21,000 --> 00:08:22,000
+ - det er faktisk fald.
+
+175
+00:08:22,000 --> 00:08:25,000
+ Fordi når de falder, så brækker de f.eks. loppingsknoglen -
+
+176
+00:08:25,000 --> 00:08:28,000
+ - og en del gange overlever de det faktisk ikke -
+
+177
+00:08:28,000 --> 00:08:31,000
+ - som følger komplikationerne til det.
+
+178
+00:08:31,000 --> 00:08:33,000
+ Nu tog jeg jo den her på -
+
+179
+00:08:33,000 --> 00:08:36,000
+ - og har jo som du kunne se noget læbestift på.
+
+180
+00:08:36,000 --> 00:08:38,000
+ Og når jeg sådan har fummet lidt rundt med den her -
+
+181
+00:08:38,000 --> 00:08:41,000
+ - så vil jeg bare lige vise dig, at du faktisk kan det her.
+
+182
+00:08:41,000 --> 00:08:43,000
+ Nu er der så en læbestift, der faktisk ikke -
+
+183
+00:08:43,000 --> 00:08:45,000
+ - men den smitter faktisk af -
+
+184
+00:08:45,000 --> 00:08:47,000
+ - blot for at sige, hvordan du kan se afsindet.
+
+185
+00:08:47,000 --> 00:08:49,000
+ Det er lidt svære for dig at se end for mig -
+
+186
+00:08:49,000 --> 00:08:51,000
+ - men du kan se det lyserøde her.
+
+187
+00:08:51,000 --> 00:08:56,000
+ Det er blot for at sige, at vi får afsind på den her -
+
+188
+00:08:56,000 --> 00:08:58,000
+ - på samme måde, hvis den her nu havde været fuld af -
+
+189
+00:08:58,000 --> 00:09:02,000
+ - afføringsbakterier, virus og bakterier -
+
+190
+00:09:02,000 --> 00:09:05,000
+ - så havde jeg jo fået det lige præcis her til truderen -
+
+191
+00:09:05,000 --> 00:09:06,000
+ - eller næsen.
+
+192
+00:09:06,000 --> 00:09:09,000
+ Og det vil sige, at det er der, hvor jeg faktisk smittes.
+
+193
+00:09:09,000 --> 00:09:12,000
+ Så det betyder, at jeg faktisk havde påført mig selv smitte -
+
+194
+00:09:12,000 --> 00:09:14,000
+ - med det her målbeskidte mundbind.
+
+195
+00:09:14,000 --> 00:09:17,000
+ Så tilbage er, ved du hvad -
+
+196
+00:09:17,000 --> 00:09:20,000
+ - det er sådan set Folkevalget, der er ved at køre det her land i seng.
+
+197
+00:09:20,000 --> 00:09:23,000
+ Det er Folkevalget, der kører Nordjylland i seng.
+
+198
+00:09:23,000 --> 00:09:28,000
+ Det er Folkevalget, der har ødelagt en hel branches eksistensgrundlæg.
+
+199
+00:09:28,000 --> 00:09:29,000
+ Det er i orden.
+
+200
+00:09:29,000 --> 00:09:32,000
+ For ved du hvad, det bygger ikke på fakta.
+
+201
+00:09:32,000 --> 00:09:37,000
+ Det bygger på frygt, gissninger, mavefornemmelser og så politik.
+
+202
+00:09:37,000 --> 00:09:40,000
+ Så derfor vil jeg bede om os alle sammen -
+
+203
+00:09:40,000 --> 00:09:44,000
+ - at vi vedholdende efterlyser og kræver dokumentation -
+
+204
+00:09:44,000 --> 00:09:47,000
+ - når man kommer med så voldsomt indgreb.
+
+205
+00:09:47,000 --> 00:09:49,000
+ At vi kigger på fakta, fakta, fakta.
+
+206
+00:09:49,000 --> 00:09:52,000
+ Og jeg vil gerne starte ud med at bede om de fakta -
+
+207
+00:09:52,000 --> 00:09:54,000
+ - og den dokumentation for 1.
+
+208
+00:09:54,000 --> 00:09:57,000
+ Den her mutation, som åbenbart er særlig fejlet -
+
+209
+00:09:57,000 --> 00:10:01,000
+ - ift. de 198 andre mutationer, vi kender.
+
+210
+00:10:01,000 --> 00:10:04,000
+ 2. Hvilken videnskabelig dokumentation -
+
+211
+00:10:04,000 --> 00:10:07,000
+ - for at have nogen som helst indflydelse på en eventuel vaccine -
+
+212
+00:10:07,000 --> 00:10:11,000
+ - hvor der i øvrigt testes en væld af forskellige vacciner.
+
+213
+00:10:11,000 --> 00:10:17,000
+ Og 3. Argumentet for, at man kan lukke en hel område ned.
+
+214
+00:10:17,000 --> 00:10:19,000
+ Valgvidene.
+
+215
+00:10:19,000 --> 00:10:23,000
+ At vi, du og jeg, er del af et større økosystem.
+
+216
+00:10:23,000 --> 00:10:27,000
+ Det betyder, at mink betyder noget, rotter betyder noget -
+
+217
+00:10:27,000 --> 00:10:29,000
+ - og rotter kender ikke til kommunengrænser.
+
+218
+00:10:29,000 --> 00:10:32,000
+ Fugle betyder noget, flautermus betyder noget -
+
+219
+00:10:32,000 --> 00:10:35,000
+ - hunde betyder noget, katte, rev.
+
+220
+00:10:35,000 --> 00:10:39,000
+ Et valg af dyr kan faktisk have at bære -
+
+221
+00:10:39,000 --> 00:10:42,000
+ - covid-19 for eksempel og mange andre ting.
+
+222
+00:10:42,000 --> 00:10:47,000
+ Vi kan jo ikke slå hele vores dyr ned af det næste.
+
+223
+00:10:47,000 --> 00:10:50,000
+ Grisebasserne, køgerne, lille buffe -
+
+224
+00:10:50,000 --> 00:10:53,000
+ - eller hvem er det? Fuglene, for den sags skyld.
+
+225
+00:10:53,000 --> 00:10:56,000
+ Det er jo fuldstændig vanvittig tankegang.
+
+226
+00:10:56,000 --> 00:11:00,000
+ Og så må det her lille, udokumenteret grundlægge -
+
+227
+00:11:00,000 --> 00:11:02,000
+ - det er i orden.
+
+228
+00:11:02,000 --> 00:11:04,000
+ Så brug din stemme derude, kæmp med -
+
+229
+00:11:04,000 --> 00:11:06,000
+ - og så vil jeg sige -
+
+230
+00:11:06,000 --> 00:11:08,000
+ - hvis du eller andre kender nogen eller selv -
+
+231
+00:11:08,000 --> 00:11:11,000
+ - ikke kan tåle at bære mundbind og bliver syg af det -
+
+232
+00:11:11,000 --> 00:11:13,000
+ - eller er skadet af det, er bange for at falde -
+
+233
+00:11:13,000 --> 00:11:15,000
+ - har arbejds- og hvertagsproblemer osv.
+
+234
+00:11:15,000 --> 00:11:18,000
+ Så ved du, at sådan en badge som den her -
+
+235
+00:11:18,000 --> 00:11:20,000
+ - eller tilsvaren, du behøver smidt -
+
+236
+00:11:20,000 --> 00:11:23,000
+ - fordi det er kontrolov, det er tilstrækkeligt at du siger det -
+
+237
+00:11:23,000 --> 00:11:25,000
+ - den her gør det bare lidt lettere -
+
+238
+00:11:25,000 --> 00:11:27,000
+ - fordi omgivelserne straks kigger på den og siger -
+
+239
+00:11:27,000 --> 00:11:30,000
+ - "Nå, okay, den er god nok, hvad kan jeg hjælpe dig med?"
+
+240
+00:11:30,000 --> 00:11:32,000
+ Men det er frivilligt, og det er ikke den, der gør det -
+
+241
+00:11:32,000 --> 00:11:34,000
+ - det er dig, der gør det, så hvis du siger -
+
+242
+00:11:34,000 --> 00:11:37,000
+ - du kan ikke tåle det, så er det på kontrolov -
+
+243
+00:11:37,000 --> 00:11:39,000
+ - jeg har ikke krav på at få en lærepladning -
+
+244
+00:11:39,000 --> 00:11:41,000
+ - jeg har krav på andet end dit ord -
+
+245
+00:11:41,000 --> 00:11:43,000
+ - og det tror jeg på.
+
+246
+00:11:43,000 --> 00:11:47,000
+ Så igen, jeg lægger et link op til de her badges -
+
+247
+00:11:47,000 --> 00:11:50,000
+ - jeg ser et lille badge, eller et lille oprør derude -
+
+248
+00:11:50,000 --> 00:11:52,000
+ - vi kunne kalde det, det er ikke de gule væste -
+
+249
+00:11:52,000 --> 00:11:54,000
+ - det er de gule badges, fordi heldigvis -
+
+250
+00:11:54,000 --> 00:11:57,000
+ - oplever jeg et stigende oprør -
+
+251
+00:11:57,000 --> 00:11:59,000
+ - jeg oplever en stigende modstand -
+
+252
+00:11:59,000 --> 00:12:01,000
+ - det så vi også med den sidste video -
+
+253
+00:12:01,000 --> 00:12:03,000
+ - 350.000 har allerede set den -
+
+254
+00:12:03,000 --> 00:12:06,000
+ - jeg håber også, at en hel del vil se den her -
+
+255
+00:12:06,000 --> 00:12:10,000
+ - fordi jeg forsøger at give dig en lødelig oplysning -
+
+256
+00:12:10,000 --> 00:12:13,000
+ - omkring Præcis Covid-19 -
+
+257
+00:12:13,000 --> 00:12:15,000
+ - og det er gode budskaber, bare hvis jeg lige skal så sammen -
+
+258
+00:12:15,000 --> 00:12:17,000
+ - 1. Tag den ordentligt fredelig -
+
+259
+00:12:17,000 --> 00:12:20,000
+ - 2. Vi har ingen dokumentation for -
+
+260
+00:12:20,000 --> 00:12:22,000
+ - at mængd smitter mennesker, den er ikke forelagt -
+
+261
+00:12:22,000 --> 00:12:25,000
+ - vi har ingen dokumentation for, at den mutation er så fredelig -
+
+262
+00:12:25,000 --> 00:12:28,000
+ - og det betyder, at der er ikke nogen evidens for -
+
+263
+00:12:28,000 --> 00:12:30,000
+ - eller videnskabelig forklaring for -
+
+264
+00:12:30,000 --> 00:12:33,000
+ - at man skal eller kan lukke en hel region ned -
+
+265
+00:12:33,000 --> 00:12:35,000
+ - 3. Der er ingen evidens for -
+
+266
+00:12:35,000 --> 00:12:37,000
+ - at det her skrammel virker i det offentlige rum -
+
+267
+00:12:37,000 --> 00:12:39,000
+ - mod for eksempel Covid-19 -
+
+268
+00:12:39,000 --> 00:12:41,000
+ - til gengæld ved vi, at der kan være en hel del -
+
+269
+00:12:41,000 --> 00:12:43,000
+ - alvorlige bivirkninger, blandt andet -
+
+270
+00:12:43,000 --> 00:12:46,000
+ - markant øget risikoforfattningsløber -
+
+271
+00:12:46,000 --> 00:12:48,000
+ - og der må man bruge og kan bruge en badge -
+
+272
+00:12:48,000 --> 00:12:49,000
+ - eller den eller andre -
+
+273
+00:12:49,000 --> 00:12:51,000
+ - men man har også lov til ikke at bruge mundbind -
+
+274
+00:12:51,000 --> 00:12:53,000
+ - hvis ens helbred ikke tillader det -
+
+275
+00:12:53,000 --> 00:12:56,000
+ - og det er på tro og lov -
+
+276
+00:12:56,000 --> 00:12:58,000
+ - kan du have det godt, og så tænk selv derude -
+
+277
+00:12:58,000 --> 00:13:01,880
+ Det er nødvendigt. Ikke mindst nu. Hej, hej.
+
